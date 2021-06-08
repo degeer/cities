@@ -1,0 +1,1230 @@
+[
+  {
+    "City": "London",
+    "Category": "Alpha++"
+  },
+  {
+    "City": "New York City",
+    "Category": "Alpha++"
+  },
+  {
+    "City": "Hong Kong",
+    "Category": "Alpha+"
+  },
+  {
+    "City": "Paris",
+    "Category": "Alpha+"
+  },
+  {
+    "City": "Singapore",
+    "Category": "Alpha+"
+  },
+  {
+    "City": "Shanghai",
+    "Category": "Alpha+"
+  },
+  {
+    "City": "Tokyo",
+    "Category": "Alpha+"
+  },
+  {
+    "City": "Beijing",
+    "Category": "Alpha+"
+  },
+  {
+    "City": "Sydney",
+    "Category": "Alpha+"
+  },
+  {
+    "City": "Dubai",
+    "Category": "Alpha+"
+  },
+  {
+    "City": "Chicago",
+    "Category": "Alpha"
+  },
+  {
+    "City": "Mumbai",
+    "Category": "Alpha"
+  },
+  {
+    "City": "Milan",
+    "Category": "Alpha"
+  },
+  {
+    "City": "Moscow",
+    "Category": "Alpha"
+  },
+  {
+    "City": "São Paulo",
+    "Category": "Alpha"
+  },
+  {
+    "City": "Frankfurt",
+    "Category": "Alpha"
+  },
+  {
+    "City": "Toronto",
+    "Category": "Alpha"
+  },
+  {
+    "City": "Los Angeles",
+    "Category": "Alpha"
+  },
+  {
+    "City": "Madrid",
+    "Category": "Alpha"
+  },
+  {
+    "City": "Mexico City",
+    "Category": "Alpha"
+  },
+  {
+    "City": "Amsterdam",
+    "Category": "Alpha"
+  },
+  {
+    "City": "Kuala Lumpur",
+    "Category": "Alpha"
+  },
+  {
+    "City": "Brussels",
+    "Category": "Alpha"
+  },
+  {
+    "City": "Seoul",
+    "Category": "Alpha-"
+  },
+  {
+    "City": "Johannesburg",
+    "Category": "Alpha-"
+  },
+  {
+    "City": "Buenos Aires",
+    "Category": "Alpha-"
+  },
+  {
+    "City": "Vienna",
+    "Category": "Alpha-"
+  },
+  {
+    "City": "San Francisco",
+    "Category": "Alpha-"
+  },
+  {
+    "City": "Istanbul",
+    "Category": "Alpha-"
+  },
+  {
+    "City": "Jakarta",
+    "Category": "Alpha-"
+  },
+  {
+    "City": "Zürich",
+    "Category": "Alpha-"
+  },
+  {
+    "City": "Warsaw",
+    "Category": "Alpha-"
+  },
+  {
+    "City": "Washington, D.C.",
+    "Category": "Alpha-"
+  },
+  {
+    "City": "Melbourne",
+    "Category": "Alpha-"
+  },
+  {
+    "City": "New Delhi",
+    "Category": "Alpha-"
+  },
+  {
+    "City": "Miami",
+    "Category": "Alpha-"
+  },
+  {
+    "City": "Barcelona",
+    "Category": "Alpha-"
+  },
+  {
+    "City": "Bangkok",
+    "Category": "Alpha-"
+  },
+  {
+    "City": "Boston",
+    "Category": "Alpha-"
+  },
+  {
+    "City": "Dublin",
+    "Category": "Alpha-"
+  },
+  {
+    "City": "Taipei",
+    "Category": "Alpha-"
+  },
+  {
+    "City": "Munich",
+    "Category": "Alpha-"
+  },
+  {
+    "City": "Stockholm",
+    "Category": "Alpha-"
+  },
+  {
+    "City": "Prague",
+    "Category": "Alpha-"
+  },
+  {
+    "City": "Atlanta",
+    "Category": "Alpha-"
+  },
+  {
+    "City": "Bangalore",
+    "Category": "Beta+"
+  },
+  {
+    "City": "Lisbon",
+    "Category": "Beta+"
+  },
+  {
+    "City": "Copenhagen",
+    "Category": "Beta+"
+  },
+  {
+    "City": "Santiago",
+    "Category": "Beta+"
+  },
+  {
+    "City": "Guangzhou",
+    "Category": "Beta+"
+  },
+  {
+    "City": "Rome",
+    "Category": "Beta+"
+  },
+  {
+    "City": "Cairo",
+    "Category": "Beta+"
+  },
+  {
+    "City": "Dallas",
+    "Category": "Beta+"
+  },
+  {
+    "City": "Hamburg",
+    "Category": "Beta+"
+  },
+  {
+    "City": "Düsseldorf",
+    "Category": "Beta+"
+  },
+  {
+    "City": "Athens",
+    "Category": "Beta+"
+  },
+  {
+    "City": "Manila",
+    "Category": "Beta+"
+  },
+  {
+    "City": "Montreal",
+    "Category": "Beta+"
+  },
+  {
+    "City": "Philadelphia",
+    "Category": "Beta+"
+  },
+  {
+    "City": "Tel Aviv",
+    "Category": "Beta+"
+  },
+  {
+    "City": "Lima",
+    "Category": "Beta+"
+  },
+  {
+    "City": "Budapest",
+    "Category": "Beta+"
+  },
+  {
+    "City": "Berlin",
+    "Category": "Beta+"
+  },
+  {
+    "City": "Cape Town",
+    "Category": "Beta+"
+  },
+  {
+    "City": "Luxembourg",
+    "Category": "Beta+"
+  },
+  {
+    "City": "Houston",
+    "Category": "Beta+"
+  },
+  {
+    "City": "Kiev",
+    "Category": "Beta+"
+  },
+  {
+    "City": "Bucharest",
+    "Category": "Beta+"
+  },
+  {
+    "City": "Beirut",
+    "Category": "Beta+"
+  },
+  {
+    "City": "Ho Chi Minh City",
+    "Category": "Beta"
+  },
+  {
+    "City": "Bogotá",
+    "Category": "Beta"
+  },
+  {
+    "City": "Auckland",
+    "Category": "Beta"
+  },
+  {
+    "City": "Montevideo",
+    "Category": "Beta"
+  },
+  {
+    "City": "Caracas",
+    "Category": "Beta"
+  },
+  {
+    "City": "Riyadh",
+    "Category": "Beta"
+  },
+  {
+    "City": "Vancouver",
+    "Category": "Beta"
+  },
+  {
+    "City": "Chennai",
+    "Category": "Beta"
+  },
+  {
+    "City": "Manchester",
+    "Category": "Beta"
+  },
+  {
+    "City": "Oslo",
+    "Category": "Beta"
+  },
+  {
+    "City": "Brisbane",
+    "Category": "Beta"
+  },
+  {
+    "City": "Helsinki",
+    "Category": "Beta"
+  },
+  {
+    "City": "Karachi",
+    "Category": "Beta"
+  },
+  {
+    "City": "Doha",
+    "Category": "Beta"
+  },
+  {
+    "City": "Casablanca",
+    "Category": "Beta"
+  },
+  {
+    "City": "Stuttgart",
+    "Category": "Beta"
+  },
+  {
+    "City": "Rio de Janeiro",
+    "Category": "Beta"
+  },
+  {
+    "City": "Geneva",
+    "Category": "Beta"
+  },
+  {
+    "City": "Guatemala City",
+    "Category": "Beta-"
+  },
+  {
+    "City": "Lyon",
+    "Category": "Beta-"
+  },
+  {
+    "City": "Monterrey",
+    "Category": "Beta-"
+  },
+  {
+    "City": "Panama City",
+    "Category": "Beta-"
+  },
+  {
+    "City": "San José",
+    "Category": "Beta-"
+  },
+  {
+    "City": "Bratislava",
+    "Category": "Beta-"
+  },
+  {
+    "City": "Minneapolis",
+    "Category": "Beta-"
+  },
+  {
+    "City": "Tunis",
+    "Category": "Beta-"
+  },
+  {
+    "City": "Nairobi",
+    "Category": "Beta-"
+  },
+  {
+    "City": "Cleveland",
+    "Category": "Beta-"
+  },
+  {
+    "City": "Lagos",
+    "Category": "Beta-"
+  },
+  {
+    "City": "Abu Dhabi",
+    "Category": "Beta-"
+  },
+  {
+    "City": "Seattle",
+    "Category": "Beta-"
+  },
+  {
+    "City": "Hanoi",
+    "Category": "Beta-"
+  },
+  {
+    "City": "Sofia",
+    "Category": "Beta-"
+  },
+  {
+    "City": "Riga",
+    "Category": "Beta-"
+  },
+  {
+    "City": "Port Louis",
+    "Category": "Beta-"
+  },
+  {
+    "City": "Detroit",
+    "Category": "Beta-"
+  },
+  {
+    "City": "Calgary",
+    "Category": "Beta-"
+  },
+  {
+    "City": "Denver",
+    "Category": "Beta-"
+  },
+  {
+    "City": "Perth",
+    "Category": "Beta-"
+  },
+  {
+    "City": "Kolkata",
+    "Category": "Beta-"
+  },
+  {
+    "City": "San Diego",
+    "Category": "Beta-"
+  },
+  {
+    "City": "Amman",
+    "Category": "Beta-"
+  },
+  {
+    "City": "Antwerp",
+    "Category": "Beta-"
+  },
+  {
+    "City": "Manama",
+    "Category": "Beta-"
+  },
+  {
+    "City": "Birmingham",
+    "Category": "Beta-"
+  },
+  {
+    "City": "Nicosia",
+    "Category": "Beta-"
+  },
+  {
+    "City": "Quito",
+    "Category": "Beta-"
+  },
+  {
+    "City": "Rotterdam",
+    "Category": "Beta-"
+  },
+  {
+    "City": "Belgrade",
+    "Category": "Beta-"
+  },
+  {
+    "City": "Almaty",
+    "Category": "Beta-"
+  },
+  {
+    "City": "Shenzhen",
+    "Category": "Beta-"
+  },
+  {
+    "City": "Kuwait City",
+    "Category": "Beta-"
+  },
+  {
+    "City": "Hyderabad",
+    "Category": "Beta-"
+  },
+  {
+    "City": "Edinburgh",
+    "Category": "Beta-"
+  },
+  {
+    "City": "Zagreb",
+    "Category": "Gam­ma+"
+  },
+  {
+    "City": "Lahore",
+    "Category": "Gam­ma+"
+  },
+  {
+    "City": "Saint Petersburg",
+    "Category": "Gam­ma+"
+  },
+  {
+    "City": "Jeddah",
+    "Category": "Gam­ma+"
+  },
+  {
+    "City": "Durban",
+    "Category": "Gam­ma+"
+  },
+  {
+    "City": "Santo Domingo",
+    "Category": "Gam­ma+"
+  },
+  {
+    "City": "Baltimore",
+    "Category": "Gam­ma+"
+  },
+  {
+    "City": "Islamabad",
+    "Category": "Gam­ma+"
+  },
+  {
+    "City": "Guayaquil",
+    "Category": "Gam­ma+"
+  },
+  {
+    "City": "St. Louis",
+    "Category": "Gam­ma+"
+  },
+  {
+    "City": "San Salvador",
+    "Category": "Gam­ma+"
+  },
+  {
+    "City": "Cologne",
+    "Category": "Gam­ma+"
+  },
+  {
+    "City": "Phoenix",
+    "Category": "Gam­ma+"
+  },
+  {
+    "City": "Adelaide",
+    "Category": "Gam­ma+"
+  },
+  {
+    "City": "Bristol",
+    "Category": "Gam­ma+"
+  },
+  {
+    "City": "Charlotte",
+    "Category": "Gam­ma+"
+  },
+  {
+    "City": "George Town",
+    "Category": "Gam­ma+"
+  },
+  {
+    "City": "Osaka",
+    "Category": "Gam­ma+"
+  },
+  {
+    "City": "Tampa",
+    "Category": "Gam­ma+"
+  },
+  {
+    "City": "Glasgow",
+    "Category": "Gam­ma"
+  },
+  {
+    "City": "San Juan",
+    "Category": "Gam­ma"
+  },
+  {
+    "City": "Marseille",
+    "Category": "Gam­ma"
+  },
+  {
+    "City": "Guadalajara",
+    "Category": "Gam­ma"
+  },
+  {
+    "City": "Leeds",
+    "Category": "Gam­ma"
+  },
+  {
+    "City": "Baku",
+    "Category": "Gam­ma"
+  },
+  {
+    "City": "Vilnius",
+    "Category": "Gam­ma"
+  },
+  {
+    "City": "Tallinn",
+    "Category": "Gam­ma"
+  },
+  {
+    "City": "Raleigh",
+    "Category": "Gam­ma"
+  },
+  {
+    "City": "Ankara",
+    "Category": "Gam­ma"
+  },
+  {
+    "City": "Belfast",
+    "Category": "Gam­ma"
+  },
+  {
+    "City": "San Jose",
+    "Category": "Gam­ma"
+  },
+  {
+    "City": "Colombo",
+    "Category": "Gam­ma"
+  },
+  {
+    "City": "Valencia",
+    "Category": "Gam­ma"
+  },
+  {
+    "City": "Cincinnati",
+    "Category": "Gam­ma"
+  },
+  {
+    "City": "Milwaukee",
+    "Category": "Gam­ma"
+  },
+  {
+    "City": "Muscat",
+    "Category": "Gam­ma"
+  },
+  {
+    "City": "Ljubljana",
+    "Category": "Gam­ma"
+  },
+  {
+    "City": "Nantes",
+    "Category": "Gam­ma-"
+  },
+  {
+    "City": "Tianjin",
+    "Category": "Gam­ma-"
+  },
+  {
+    "City": "Accra",
+    "Category": "Gam­ma-"
+  },
+  {
+    "City": "Algiers",
+    "Category": "Gam­ma-"
+  },
+  {
+    "City": "Gothenburg",
+    "Category": "Gam­ma-"
+  },
+  {
+    "City": "Porto",
+    "Category": "Gam­ma-"
+  },
+  {
+    "City": "Columbus",
+    "Category": "Gam­ma-"
+  },
+  {
+    "City": "Utrecht",
+    "Category": "Gam­ma-"
+  },
+  {
+    "City": "Orlando",
+    "Category": "Gam­ma-"
+  },
+  {
+    "City": "Ahmedabad",
+    "Category": "Gam­ma-"
+  },
+  {
+    "City": "Asunción",
+    "Category": "Gam­ma-"
+  },
+  {
+    "City": "Kansas City",
+    "Category": "Gam­ma-"
+  },
+  {
+    "City": "Seville",
+    "Category": "Gam­ma-"
+  },
+  {
+    "City": "Turin",
+    "Category": "Gam­ma-"
+  },
+  {
+    "City": "Dar es Salaam",
+    "Category": "Gam­ma-"
+  },
+  {
+    "City": "Portland",
+    "Category": "Gam­ma-"
+  },
+  {
+    "City": "Kraków",
+    "Category": "Gam­ma-"
+  },
+  {
+    "City": "Managua",
+    "Category": "Gam­ma-"
+  },
+  {
+    "City": "Pune",
+    "Category": "Gam­ma-"
+  },
+  {
+    "City": "Leipzig",
+    "Category": "Gam­ma-"
+  },
+  {
+    "City": "Malmö",
+    "Category": "Gam­ma-"
+  },
+  {
+    "City": "La Paz",
+    "Category": "Gam­ma-"
+  },
+  {
+    "City": "Southampton",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "Indianapolis",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "Porto Alegre",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "Strasbourg",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "Gaborone",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "Chengdu",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "Richmond",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "Pittsburgh",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "Tijuana",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "Austin",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "Qingdao",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "Nassau",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "Tegucigalpa",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "Lille",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "Curitiba",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "The Hague",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "Hartford",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "Wrocław",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "Edmonton",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "Lausanne",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "Dhaka",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "Nuremberg",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "Lusaka",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "Kampala",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "Bilbao",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "Douala",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "Abidjan",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "Salt Lake City",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "Hangzhou",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "Poznań",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "Wellington",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "Ottawa",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "Dakar",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "Querétaro",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "Dresden",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "Newcastle",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "Skopje",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "Nanjing",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "Tirana",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "Chongqing",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "Belo Horizonte",
+    "Category": "High suffi­cien­cy"
+  },
+  {
+    "City": "Florence",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Pretoria",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Toulouse",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Aarhus",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "San Antonio",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Bremen",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Nashville",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Bologna",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Canberra",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Nagoya",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Sacramento",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Providence",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Luanda",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Dalian",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Liverpool",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Jacksonville",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Puebla",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Kaohsiung",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Minsk",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Linz",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Tbilisi",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Las Vegas",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Maputo",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Harare",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Cardiff",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Xiamen",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Birmingham",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Leon",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Port of Spain",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Penang",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Memphis",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Aberdeen",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Abuja",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Hanover",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Surabaya",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Bern",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Halifax",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Ciudad Juárez",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Alexandria",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Bordeaux",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Phnom Penh",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Winnipeg",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Cali",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Greensboro",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Genoa",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Medellín",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Santa Cruz",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Montpellier",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Córdoba",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Wuhan",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Graz",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Jerusalem",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "New Orleans",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Rochester",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Nice",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Busan",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Windhoek",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Dammam",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Christchurch",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Recife",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Tashkent",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Hamilton",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Reykjavík",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Naples",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Tulsa",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Ludwigshafen",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Kingston",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Brasília",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Johor Bahru",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Xi'an",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Macau",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Fukuoka",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Sheffield",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "İzmir",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Nottingham",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Des Moines",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Campinas",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Chisinau",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Haifa",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Madison",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Yerevan",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Cebu",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Labuan",
+    "Category": "Suffi­cien­cy"
+  },
+  {
+    "City": "Salvador",
+    "Category": "Suffi­cien­cy"
+  }
+]
