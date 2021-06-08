@@ -1,1230 +1,1537 @@
 [
   {
     "City": "London",
+    "ISO": "GBR",
     "Category": "Alpha++"
   },
   {
     "City": "New York City",
+    "ISO": "USA",
     "Category": "Alpha++"
   },
   {
     "City": "Hong Kong",
+    "ISO": "HKG",
     "Category": "Alpha+"
   },
   {
     "City": "Paris",
+    "ISO": "FRA",
     "Category": "Alpha+"
   },
   {
     "City": "Singapore",
+    "ISO": "SGP",
     "Category": "Alpha+"
   },
   {
     "City": "Shanghai",
+    "ISO": "CHN",
     "Category": "Alpha+"
   },
   {
     "City": "Tokyo",
+    "ISO": "JPN",
     "Category": "Alpha+"
   },
   {
     "City": "Beijing",
+    "ISO": "CHN",
     "Category": "Alpha+"
   },
   {
     "City": "Sydney",
+    "ISO": "AUS",
     "Category": "Alpha+"
   },
   {
     "City": "Dubai",
+    "ISO": "ARE",
     "Category": "Alpha+"
   },
   {
     "City": "Chicago",
+    "ISO": "USA",
     "Category": "Alpha"
   },
   {
     "City": "Mumbai",
+    "ISO": "IND",
     "Category": "Alpha"
   },
   {
     "City": "Milan",
+    "ISO": "ITA",
     "Category": "Alpha"
   },
   {
     "City": "Moscow",
+    "ISO": "RUS",
     "Category": "Alpha"
   },
   {
     "City": "São Paulo",
+    "ISO": "BRA",
     "Category": "Alpha"
   },
   {
     "City": "Frankfurt",
+    "ISO": "DEU",
     "Category": "Alpha"
   },
   {
     "City": "Toronto",
+    "ISO": "CAN",
     "Category": "Alpha"
   },
   {
     "City": "Los Angeles",
+    "ISO": "USA",
     "Category": "Alpha"
   },
   {
     "City": "Madrid",
+    "ISO": "ESP",
     "Category": "Alpha"
   },
   {
     "City": "Mexico City",
+    "ISO": "MEX",
     "Category": "Alpha"
   },
   {
     "City": "Amsterdam",
+    "ISO": "NLD",
     "Category": "Alpha"
   },
   {
     "City": "Kuala Lumpur",
+    "ISO": "MYS",
     "Category": "Alpha"
   },
   {
     "City": "Brussels",
+    "ISO": "BEL",
     "Category": "Alpha"
   },
   {
     "City": "Seoul",
+    "ISO": "KOR",
     "Category": "Alpha-"
   },
   {
     "City": "Johannesburg",
+    "ISO": "ZAF",
     "Category": "Alpha-"
   },
   {
     "City": "Buenos Aires",
+    "ISO": "ARG",
     "Category": "Alpha-"
   },
   {
     "City": "Vienna",
+    "ISO": "AUT",
     "Category": "Alpha-"
   },
   {
     "City": "San Francisco",
+    "ISO": "USA",
     "Category": "Alpha-"
   },
   {
     "City": "Istanbul",
+    "ISO": "TUR",
     "Category": "Alpha-"
   },
   {
     "City": "Jakarta",
+    "ISO": "IDN",
     "Category": "Alpha-"
   },
   {
     "City": "Zürich",
+    "ISO": "CHE",
     "Category": "Alpha-"
   },
   {
     "City": "Warsaw",
+    "ISO": "POL",
     "Category": "Alpha-"
   },
   {
     "City": "Washington, D.C.",
+    "ISO": "USA",
     "Category": "Alpha-"
   },
   {
     "City": "Melbourne",
+    "ISO": "AUS",
     "Category": "Alpha-"
   },
   {
     "City": "New Delhi",
+    "ISO": "IND",
     "Category": "Alpha-"
   },
   {
     "City": "Miami",
+    "ISO": "USA",
     "Category": "Alpha-"
   },
   {
     "City": "Barcelona",
+    "ISO": "ESP",
     "Category": "Alpha-"
   },
   {
     "City": "Bangkok",
+    "ISO": "THA",
     "Category": "Alpha-"
   },
   {
     "City": "Boston",
+    "ISO": "USA",
     "Category": "Alpha-"
   },
   {
     "City": "Dublin",
+    "ISO": "IRL",
     "Category": "Alpha-"
   },
   {
     "City": "Taipei",
+    "ISO": "TWN",
     "Category": "Alpha-"
   },
   {
     "City": "Munich",
+    "ISO": "DEU",
     "Category": "Alpha-"
   },
   {
     "City": "Stockholm",
+    "ISO": "SWE",
     "Category": "Alpha-"
   },
   {
     "City": "Prague",
+    "ISO": "CZE",
     "Category": "Alpha-"
   },
   {
     "City": "Atlanta",
+    "ISO": "USA",
     "Category": "Alpha-"
   },
   {
     "City": "Bangalore",
+    "ISO": "IND",
     "Category": "Beta+"
   },
   {
     "City": "Lisbon",
+    "ISO": "PRT",
     "Category": "Beta+"
   },
   {
     "City": "Copenhagen",
+    "ISO": "DNK",
     "Category": "Beta+"
   },
   {
     "City": "Santiago",
+    "ISO": "CHL",
     "Category": "Beta+"
   },
   {
     "City": "Guangzhou",
+    "ISO": "CHN",
     "Category": "Beta+"
   },
   {
     "City": "Rome",
+    "ISO": "ITA",
     "Category": "Beta+"
   },
   {
     "City": "Cairo",
+    "ISO": "EGY",
     "Category": "Beta+"
   },
   {
     "City": "Dallas",
+    "ISO": "USA",
     "Category": "Beta+"
   },
   {
     "City": "Hamburg",
+    "ISO": "DEU",
     "Category": "Beta+"
   },
   {
     "City": "Düsseldorf",
+    "ISO": "DEU",
     "Category": "Beta+"
   },
   {
     "City": "Athens",
+    "ISO": "GRC",
     "Category": "Beta+"
   },
   {
     "City": "Manila",
+    "ISO": "PHL",
     "Category": "Beta+"
   },
   {
     "City": "Montreal",
+    "ISO": "CAN",
     "Category": "Beta+"
   },
   {
     "City": "Philadelphia",
+    "ISO": "USA",
     "Category": "Beta+"
   },
   {
     "City": "Tel Aviv",
+    "ISO": "ISR",
     "Category": "Beta+"
   },
   {
     "City": "Lima",
+    "ISO": "PER",
     "Category": "Beta+"
   },
   {
     "City": "Budapest",
+    "ISO": "HUN",
     "Category": "Beta+"
   },
   {
     "City": "Berlin",
+    "ISO": "DEU",
     "Category": "Beta+"
   },
   {
     "City": "Cape Town",
+    "ISO": "ZAF",
     "Category": "Beta+"
   },
   {
     "City": "Luxembourg",
+    "ISO": "LUX",
     "Category": "Beta+"
   },
   {
     "City": "Houston",
+    "ISO": "USA",
     "Category": "Beta+"
   },
   {
     "City": "Kiev",
+    "ISO": "UKR",
     "Category": "Beta+"
   },
   {
     "City": "Bucharest",
+    "ISO": "ROU",
     "Category": "Beta+"
   },
   {
     "City": "Beirut",
+    "ISO": "LBN",
     "Category": "Beta+"
   },
   {
     "City": "Ho Chi Minh City",
+    "ISO": "VNM",
     "Category": "Beta"
   },
   {
     "City": "Bogotá",
+    "ISO": "COL",
     "Category": "Beta"
   },
   {
     "City": "Auckland",
+    "ISO": "NZL",
     "Category": "Beta"
   },
   {
     "City": "Montevideo",
+    "ISO": "URY",
     "Category": "Beta"
   },
   {
     "City": "Caracas",
+    "ISO": "VEN",
     "Category": "Beta"
   },
   {
     "City": "Riyadh",
+    "ISO": "SAU",
     "Category": "Beta"
   },
   {
     "City": "Vancouver",
+    "ISO": "CAN",
     "Category": "Beta"
   },
   {
     "City": "Chennai",
+    "ISO": "IND",
     "Category": "Beta"
   },
   {
     "City": "Manchester",
+    "ISO": "GBR",
     "Category": "Beta"
   },
   {
     "City": "Oslo",
+    "ISO": "NOR",
     "Category": "Beta"
   },
   {
     "City": "Brisbane",
+    "ISO": "AUS",
     "Category": "Beta"
   },
   {
     "City": "Helsinki",
+    "ISO": "FIN",
     "Category": "Beta"
   },
   {
     "City": "Karachi",
+    "ISO": "PAK",
     "Category": "Beta"
   },
   {
     "City": "Doha",
+    "ISO": "QAT",
     "Category": "Beta"
   },
   {
     "City": "Casablanca",
+    "ISO": "MAR",
     "Category": "Beta"
   },
   {
     "City": "Stuttgart",
+    "ISO": "DEU",
     "Category": "Beta"
   },
   {
     "City": "Rio de Janeiro",
+    "ISO": "BRA",
     "Category": "Beta"
   },
   {
     "City": "Geneva",
+    "ISO": "CHE",
     "Category": "Beta"
   },
   {
     "City": "Guatemala City",
+    "ISO": "GTM",
     "Category": "Beta-"
   },
   {
     "City": "Lyon",
+    "ISO": "FRA",
     "Category": "Beta-"
   },
   {
     "City": "Monterrey",
+    "ISO": "MEX",
     "Category": "Beta-"
   },
   {
     "City": "Panama City",
+    "ISO": "PAN",
     "Category": "Beta-"
   },
   {
     "City": "San José",
+    "ISO": "CRI",
     "Category": "Beta-"
   },
   {
     "City": "Bratislava",
+    "ISO": "SVK",
     "Category": "Beta-"
   },
   {
     "City": "Minneapolis",
+    "ISO": "USA",
     "Category": "Beta-"
   },
   {
     "City": "Tunis",
+    "ISO": "TUN",
     "Category": "Beta-"
   },
   {
     "City": "Nairobi",
+    "ISO": "KEN",
     "Category": "Beta-"
   },
   {
     "City": "Cleveland",
+    "ISO": "USA",
     "Category": "Beta-"
   },
   {
     "City": "Lagos",
+    "ISO": "NGA",
     "Category": "Beta-"
   },
   {
     "City": "Abu Dhabi",
+    "ISO": "ARE",
     "Category": "Beta-"
   },
   {
     "City": "Seattle",
+    "ISO": "USA",
     "Category": "Beta-"
   },
   {
     "City": "Hanoi",
+    "ISO": "VNM",
     "Category": "Beta-"
   },
   {
     "City": "Sofia",
+    "ISO": "BGR",
     "Category": "Beta-"
   },
   {
     "City": "Riga",
+    "ISO": "LVA",
     "Category": "Beta-"
   },
   {
     "City": "Port Louis",
+    "ISO": "MUS",
     "Category": "Beta-"
   },
   {
     "City": "Detroit",
+    "ISO": "USA",
     "Category": "Beta-"
   },
   {
     "City": "Calgary",
+    "ISO": "CAN",
     "Category": "Beta-"
   },
   {
     "City": "Denver",
+    "ISO": "USA",
     "Category": "Beta-"
   },
   {
     "City": "Perth",
+    "ISO": "AUS",
     "Category": "Beta-"
   },
   {
     "City": "Kolkata",
+    "ISO": "IND",
     "Category": "Beta-"
   },
   {
     "City": "San Diego",
+    "ISO": "USA",
     "Category": "Beta-"
   },
   {
     "City": "Amman",
+    "ISO": "JOR",
     "Category": "Beta-"
   },
   {
     "City": "Antwerp",
+    "ISO": "BEL",
     "Category": "Beta-"
   },
   {
     "City": "Manama",
+    "ISO": "BHR",
     "Category": "Beta-"
   },
   {
     "City": "Birmingham",
+    "ISO": "GBR",
     "Category": "Beta-"
   },
   {
     "City": "Nicosia",
+    "ISO": "CYP",
     "Category": "Beta-"
   },
   {
     "City": "Quito",
+    "ISO": "ECU",
     "Category": "Beta-"
   },
   {
     "City": "Rotterdam",
+    "ISO": "NLD",
     "Category": "Beta-"
   },
   {
     "City": "Belgrade",
+    "ISO": "SRB",
     "Category": "Beta-"
   },
   {
     "City": "Almaty",
+    "ISO": "KAZ",
     "Category": "Beta-"
   },
   {
     "City": "Shenzhen",
+    "ISO": "CHN",
     "Category": "Beta-"
   },
   {
     "City": "Kuwait City",
+    "ISO": "KWT",
     "Category": "Beta-"
   },
   {
     "City": "Hyderabad",
+    "ISO": "IND",
     "Category": "Beta-"
   },
   {
     "City": "Edinburgh",
+    "ISO": "GBR",
     "Category": "Beta-"
   },
   {
     "City": "Zagreb",
+    "ISO": "HRV",
     "Category": "Gam­ma+"
   },
   {
     "City": "Lahore",
+    "ISO": "PAK",
     "Category": "Gam­ma+"
   },
   {
     "City": "Saint Petersburg",
+    "ISO": "RUS",
     "Category": "Gam­ma+"
   },
   {
     "City": "Jeddah",
+    "ISO": "SAU",
     "Category": "Gam­ma+"
   },
   {
     "City": "Durban",
+    "ISO": "ZAF",
     "Category": "Gam­ma+"
   },
   {
     "City": "Santo Domingo",
+    "ISO": "DOM",
     "Category": "Gam­ma+"
   },
   {
     "City": "Baltimore",
+    "ISO": "USA",
     "Category": "Gam­ma+"
   },
   {
     "City": "Islamabad",
+    "ISO": "PAK",
     "Category": "Gam­ma+"
   },
   {
     "City": "Guayaquil",
+    "ISO": "ECU",
     "Category": "Gam­ma+"
   },
   {
-    "City": "St. Louis",
+    "City": "Saint Louis",
+    "ISO": "USA",
     "Category": "Gam­ma+"
   },
   {
     "City": "San Salvador",
+    "ISO": "SLV",
     "Category": "Gam­ma+"
   },
   {
     "City": "Cologne",
+    "ISO": "DEU",
     "Category": "Gam­ma+"
   },
   {
     "City": "Phoenix",
+    "ISO": "USA",
     "Category": "Gam­ma+"
   },
   {
     "City": "Adelaide",
+    "ISO": "AUS",
     "Category": "Gam­ma+"
   },
   {
     "City": "Bristol",
+    "ISO": "GBR",
     "Category": "Gam­ma+"
   },
   {
     "City": "Charlotte",
+    "ISO": "USA",
     "Category": "Gam­ma+"
   },
   {
     "City": "George Town",
+    "ISO": "CYM",
     "Category": "Gam­ma+"
   },
   {
     "City": "Osaka",
+    "ISO": "JPN",
     "Category": "Gam­ma+"
   },
   {
     "City": "Tampa",
+    "ISO": "USA",
     "Category": "Gam­ma+"
   },
   {
     "City": "Glasgow",
+    "ISO": "GBR",
     "Category": "Gam­ma"
   },
   {
     "City": "San Juan",
+    "ISO": "PRI",
     "Category": "Gam­ma"
   },
   {
     "City": "Marseille",
+    "ISO": "FRA",
     "Category": "Gam­ma"
   },
   {
     "City": "Guadalajara",
+    "ISO": "MEX",
     "Category": "Gam­ma"
   },
   {
     "City": "Leeds",
+    "ISO": "GBR",
     "Category": "Gam­ma"
   },
   {
     "City": "Baku",
+    "ISO": "AZE",
     "Category": "Gam­ma"
   },
   {
     "City": "Vilnius",
+    "ISO": "LTU",
     "Category": "Gam­ma"
   },
   {
     "City": "Tallinn",
+    "ISO": "EST",
     "Category": "Gam­ma"
   },
   {
     "City": "Raleigh",
+    "ISO": "USA",
     "Category": "Gam­ma"
   },
   {
     "City": "Ankara",
+    "ISO": "TUR",
     "Category": "Gam­ma"
   },
   {
     "City": "Belfast",
+    "ISO": "GBR",
     "Category": "Gam­ma"
   },
   {
     "City": "San Jose",
+    "ISO": "USA",
     "Category": "Gam­ma"
   },
   {
     "City": "Colombo",
+    "ISO": "LKA",
     "Category": "Gam­ma"
   },
   {
     "City": "Valencia",
+    "ISO": "ESP",
     "Category": "Gam­ma"
   },
   {
     "City": "Cincinnati",
+    "ISO": "USA",
     "Category": "Gam­ma"
   },
   {
     "City": "Milwaukee",
+    "ISO": "USA",
     "Category": "Gam­ma"
   },
   {
     "City": "Muscat",
+    "ISO": "OMN",
     "Category": "Gam­ma"
   },
   {
     "City": "Ljubljana",
+    "ISO": "SVN",
     "Category": "Gam­ma"
   },
   {
     "City": "Nantes",
+    "ISO": "FRA",
     "Category": "Gam­ma-"
   },
   {
     "City": "Tianjin",
+    "ISO": "CHN",
     "Category": "Gam­ma-"
   },
   {
     "City": "Accra",
+    "ISO": "GHA",
     "Category": "Gam­ma-"
   },
   {
     "City": "Algiers",
+    "ISO": "DZA",
     "Category": "Gam­ma-"
   },
   {
-    "City": "Gothenburg",
+    "City": "Göteborg",
+    "ISO": "SWE",
     "Category": "Gam­ma-"
   },
   {
     "City": "Porto",
+    "ISO": "PRT",
     "Category": "Gam­ma-"
   },
   {
     "City": "Columbus",
+    "ISO": "USA",
     "Category": "Gam­ma-"
   },
   {
     "City": "Utrecht",
+    "ISO": "NLD",
     "Category": "Gam­ma-"
   },
   {
     "City": "Orlando",
+    "ISO": "USA",
     "Category": "Gam­ma-"
   },
   {
     "City": "Ahmedabad",
+    "ISO": "IND",
     "Category": "Gam­ma-"
   },
   {
     "City": "Asunción",
+    "ISO": "PRY",
     "Category": "Gam­ma-"
   },
   {
     "City": "Kansas City",
+    "ISO": "USA",
     "Category": "Gam­ma-"
   },
   {
-    "City": "Seville",
+    "City": "Sevilla",
+    "ISO": "ESP",
     "Category": "Gam­ma-"
   },
   {
     "City": "Turin",
+    "ISO": "ITA",
     "Category": "Gam­ma-"
   },
   {
     "City": "Dar es Salaam",
+    "ISO": "TZA",
     "Category": "Gam­ma-"
   },
   {
     "City": "Portland",
+    "ISO": "USA",
     "Category": "Gam­ma-"
   },
   {
     "City": "Kraków",
+    "ISO": "POL",
     "Category": "Gam­ma-"
   },
   {
     "City": "Managua",
+    "ISO": "NIC",
     "Category": "Gam­ma-"
   },
   {
     "City": "Pune",
+    "ISO": "IND",
     "Category": "Gam­ma-"
   },
   {
     "City": "Leipzig",
+    "ISO": "DEU",
     "Category": "Gam­ma-"
   },
   {
     "City": "Malmö",
+    "ISO": "SWE",
     "Category": "Gam­ma-"
   },
   {
     "City": "La Paz",
+    "ISO": "BOL",
     "Category": "Gam­ma-"
   },
   {
     "City": "Southampton",
+    "ISO": "GBR",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "Indianapolis",
+    "ISO": "USA",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "Porto Alegre",
+    "ISO": "BRA",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "Strasbourg",
+    "ISO": "FRA",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "Gaborone",
+    "ISO": "BWA",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "Chengdu",
+    "ISO": "CHN",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "Richmond",
+    "ISO": "USA",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "Pittsburgh",
+    "ISO": "USA",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "Tijuana",
+    "ISO": "MEX",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "Austin",
+    "ISO": "USA",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "Qingdao",
+    "ISO": "CHN",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "Nassau",
+    "ISO": "BHS",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "Tegucigalpa",
+    "ISO": "HND",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "Lille",
+    "ISO": "FRA",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "Curitiba",
+    "ISO": "BRA",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "The Hague",
+    "ISO": "NLD",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "Hartford",
+    "ISO": "USA",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "Wrocław",
+    "ISO": "POL",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "Edmonton",
+    "ISO": "CAN",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "Lausanne",
+    "ISO": "CHE",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "Dhaka",
+    "ISO": "BGD",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "Nuremberg",
+    "ISO": "DEU",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "Lusaka",
+    "ISO": "ZMB",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "Kampala",
+    "ISO": "UGA",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "Bilbao",
+    "ISO": "ESP",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "Douala",
+    "ISO": "CMR",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "Abidjan",
+    "ISO": "CIV",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "Salt Lake City",
+    "ISO": "USA",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "Hangzhou",
+    "ISO": "CHN",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "Poznań",
+    "ISO": "POL",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "Wellington",
+    "ISO": "NZL",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "Ottawa",
+    "ISO": "CAN",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "Dakar",
+    "ISO": "SEN",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "Querétaro",
+    "ISO": "MEX",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "Dresden",
+    "ISO": "DEU",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "Newcastle",
+    "ISO": "GBR",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "Skopje",
+    "ISO": "MKD",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "Nanjing",
+    "ISO": "CHN",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "Tirana",
+    "ISO": "ALB",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "Chongqing",
+    "ISO": "CHN",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "Belo Horizonte",
+    "ISO": "BRA",
     "Category": "High suffi­cien­cy"
   },
   {
     "City": "Florence",
+    "ISO": "ITA",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Pretoria",
+    "ISO": "ZAF",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Toulouse",
+    "ISO": "FRA",
     "Category": "Suffi­cien­cy"
   },
   {
-    "City": "Aarhus",
+    "City": "Århus",
+    "ISO": "DNK",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "San Antonio",
+    "ISO": "USA",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Bremen",
+    "ISO": "DEU",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Nashville",
+    "ISO": "USA",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Bologna",
+    "ISO": "ITA",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Canberra",
+    "ISO": "AUS",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Nagoya",
+    "ISO": "JPN",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Sacramento",
+    "ISO": "USA",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Providence",
+    "ISO": "USA",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Luanda",
+    "ISO": "AGO",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Dalian",
+    "ISO": "CHN",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Liverpool",
+    "ISO": "GBR",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Jacksonville",
+    "ISO": "USA",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Puebla",
+    "ISO": "MEX",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Kaohsiung",
+    "ISO": "TWN",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Minsk",
+    "ISO": "BLR",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Linz",
+    "ISO": "AUT",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Tbilisi",
+    "ISO": "GEO",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Las Vegas",
+    "ISO": "USA",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Maputo",
+    "ISO": "MOZ",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Harare",
+    "ISO": "ZWE",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Cardiff",
+    "ISO": "GBR",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Xiamen",
+    "ISO": "CHN",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Birmingham",
+    "ISO": "USA",
     "Category": "Suffi­cien­cy"
   },
   {
-    "City": "Leon",
+    "City": "León",
+    "ISO": "MEX",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Port of Spain",
+    "ISO": "TTO",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Penang",
+    "ISO": "MYS",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Memphis",
+    "ISO": "USA",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Aberdeen",
+    "ISO": "GBR",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Abuja",
+    "ISO": "NGA",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Hanover",
+    "ISO": "DEU",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Surabaya",
+    "ISO": "IDN",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Bern",
+    "ISO": "CHE",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Halifax",
+    "ISO": "CAN",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Ciudad Juárez",
+    "ISO": "MEX",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Alexandria",
+    "ISO": "EGY",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Bordeaux",
+    "ISO": "FRA",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Phnom Penh",
+    "ISO": "KHM",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Winnipeg",
+    "ISO": "CAN",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Cali",
+    "ISO": "COL",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Greensboro",
+    "ISO": "USA",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Genoa",
+    "ISO": "ITA",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Medellín",
+    "ISO": "COL",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Santa Cruz",
+    "ISO": "ESP",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Montpellier",
+    "ISO": "FRA",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Córdoba",
+    "ISO": "ARG",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Wuhan",
+    "ISO": "CHN",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Graz",
+    "ISO": "AUT",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Jerusalem",
+    "ISO": "ISR",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "New Orleans",
+    "ISO": "USA",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Rochester",
+    "ISO": "USA",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Nice",
+    "ISO": "FRA",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Busan",
+    "ISO": "KOR",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Windhoek",
+    "ISO": "NAM",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Dammam",
+    "ISO": "SAU",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Christchurch",
+    "ISO": "NZL",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Recife",
+    "ISO": "BRA",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Tashkent",
+    "ISO": "UZB",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Hamilton",
+    "ISO": "BMU",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Reykjavík",
+    "ISO": "ISL",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Naples",
+    "ISO": "ITA",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Tulsa",
+    "ISO": "USA",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Ludwigshafen",
+    "ISO": "DEU",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Kingston",
+    "ISO": "JAM",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Brasília",
+    "ISO": "BRA",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Johor Bahru",
+    "ISO": "MYS",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Xi'an",
+    "ISO": "CHN",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Macau",
+    "ISO": "MAC",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Fukuoka",
+    "ISO": "JPN",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Sheffield",
+    "ISO": "GBR",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "İzmir",
+    "ISO": "TUR",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Nottingham",
+    "ISO": "GBR",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Des Moines",
+    "ISO": "USA",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Campinas",
+    "ISO": "BRA",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Chisinau",
+    "ISO": "MDA",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Haifa",
+    "ISO": "ISR",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Madison",
+    "ISO": "USA",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Yerevan",
+    "ISO": "ARM",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Cebu",
+    "ISO": "PHL",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Labuan",
+    "ISO": "MYS",
     "Category": "Suffi­cien­cy"
   },
   {
     "City": "Salvador",
+    "ISO": "BRA",
     "Category": "Suffi­cien­cy"
   }
 ]
