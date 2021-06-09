@@ -1,0 +1,149 @@
+[
+  {
+    "name": "Montevideo",
+    "iso": "URY",
+    "latitude": -34.9059039,
+    "longitude": -56.1913569,
+    "year": 1930
+  },
+  {
+    "name": "Rome",
+    "iso": "ITA",
+    "latitude": 41.8933439,
+    "longitude": 12.4830718,
+    "year": 1934
+  },
+  {
+    "name": "Paris",
+    "iso": "FRA",
+    "latitude": 48.8565056,
+    "longitude": 2.3521334,
+    "year": 1938
+  },
+  {
+    "name": "Rio de Janeiro",
+    "iso": "BRA",
+    "latitude": -22.9110137,
+    "longitude": -43.2093727,
+    "year": 1950
+  },
+  {
+    "name": "Bern",
+    "iso": "CHE",
+    "latitude": 46.9482713,
+    "longitude": 7.4514512,
+    "year": 1954
+  },
+  {
+    "name": "Stockholm",
+    "iso": "SWE",
+    "latitude": 59.3251172,
+    "longitude": 18.0710935,
+    "year": 1958
+  },
+  {
+    "name": "Santiago",
+    "iso": "CHL",
+    "latitude": -33.4377968,
+    "longitude": -70.6504451,
+    "year": 1962
+  },
+  {
+    "name": "London",
+    "iso": "GBR",
+    "latitude": 51.5073219,
+    "longitude": -0.1276473,
+    "year": 1966
+  },
+  {
+    "name": "Mexico City",
+    "iso": "MEX",
+    "latitude": 19.4325301,
+    "longitude": -99.1332102,
+    "year": 1970
+  },
+  {
+    "name": "Munich",
+    "iso": "DEU",
+    "latitude": 48.1371079,
+    "longitude": 11.5753822,
+    "year": 1974
+  },
+  {
+    "name": "Buenos Aires",
+    "iso": "ARG",
+    "latitude": -34.612869,
+    "longitude": -58.4459789,
+    "year": 1978
+  },
+  {
+    "name": "Madrid",
+    "iso": "ESP",
+    "latitude": 40.4167047,
+    "longitude": -3.7035825,
+    "year": 1982
+  },
+  {
+    "name": "Mexico City",
+    "iso": "MEX",
+    "latitude": 19.4325301,
+    "longitude": -99.1332102,
+    "year": 1986
+  },
+  {
+    "name": "Rome",
+    "iso": "ITA",
+    "latitude": 41.8933439,
+    "longitude": 12.4830718,
+    "year": 1990
+  },
+  {
+    "name": "Los Angeles",
+    "iso": "USA",
+    "latitude": 34.053717,
+    "longitude": -118.2427265,
+    "year": 1994
+  },
+  {
+    "name": "Paris",
+    "iso": "FRA",
+    "latitude": 48.8565056,
+    "longitude": 2.3521334,
+    "year": 1998
+  },
+  {
+    "name": "Yokohama",
+    "iso": "URY",
+    "latitude": -34.9059039,
+    "longitude": -56.1913569,
+    "year": 2002
+  },
+  {
+    "name": "Berlin",
+    "iso": "DEU",
+    "latitude": 52.5170365,
+    "longitude": 13.3888599,
+    "year": 2006
+  },
+  {
+    "name": "Johannesburg",
+    "iso": "ZAF",
+    "latitude": -26.205,
+    "longitude": 28.0497222,
+    "year": 2010
+  },
+  {
+    "name": "Rio de Janeiro",
+    "iso": "BRA",
+    "latitude": -22.9110137,
+    "longitude": -43.2093727,
+    "year": 2014
+  },
+  {
+    "name": "Moscow",
+    "iso": "RUS",
+    "latitude": 55.7516335,
+    "longitude": 37.6187042,
+    "year": 2018
+  }
+]

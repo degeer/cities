@@ -1,0 +1,2151 @@
+[
+  {
+    "name": "London",
+    "iso": "GBR",
+    "category": "Alpha++",
+    "latitude": 51.5073219,
+    "longitude": -0.1276473
+  },
+  {
+    "name": "New York City",
+    "iso": "USA",
+    "category": "Alpha++",
+    "latitude": 40.7305991,
+    "longitude": -73.9865812
+  },
+  {
+    "name": "Hong Kong",
+    "iso": "HKG",
+    "category": "Alpha+",
+    "latitude": 22.2793278,
+    "longitude": 114.1628131
+  },
+  {
+    "name": "Paris",
+    "iso": "FRA",
+    "category": "Alpha+",
+    "latitude": 48.8565056,
+    "longitude": 2.3521334
+  },
+  {
+    "name": "Singapore",
+    "iso": "SGP",
+    "category": "Alpha+",
+    "latitude": 1.2904527,
+    "longitude": 103.852038
+  },
+  {
+    "name": "Shanghai",
+    "iso": "CHN",
+    "category": "Alpha+",
+    "latitude": 31.2253441,
+    "longitude": 121.4888922
+  },
+  {
+    "name": "Tokyo",
+    "iso": "JPN",
+    "category": "Alpha+",
+    "latitude": 34.2255804,
+    "longitude": 139.2947745
+  },
+  {
+    "name": "Beijing",
+    "iso": "CHN",
+    "category": "Alpha+",
+    "latitude": 39.9059631,
+    "longitude": 116.391248
+  },
+  {
+    "name": "Sydney",
+    "iso": "AUS",
+    "category": "Alpha+",
+    "latitude": -33.8548156,
+    "longitude": 151.2164539
+  },
+  {
+    "name": "Dubai",
+    "iso": "ARE",
+    "category": "Alpha+",
+    "latitude": 25.2683521,
+    "longitude": 55.2961962
+  },
+  {
+    "name": "Chicago",
+    "iso": "USA",
+    "category": "Alpha",
+    "latitude": 41.8755546,
+    "longitude": -87.6244212
+  },
+  {
+    "name": "Mumbai",
+    "iso": "IND",
+    "category": "Alpha",
+    "latitude": 18.9523804,
+    "longitude": 72.8327112
+  },
+  {
+    "name": "Milan",
+    "iso": "ITA",
+    "category": "Alpha",
+    "latitude": 45.4667971,
+    "longitude": 9.1904984
+  },
+  {
+    "name": "Moscow",
+    "iso": "RUS",
+    "category": "Alpha",
+    "latitude": 55.7516335,
+    "longitude": 37.6187042
+  },
+  {
+    "name": "São Paulo",
+    "iso": "BRA",
+    "category": "Alpha",
+    "latitude": -23.5476397,
+    "longitude": -46.637365
+  },
+  {
+    "name": "Frankfurt",
+    "iso": "DEU",
+    "category": "Alpha",
+    "latitude": 50.1106529,
+    "longitude": 8.6820934
+  },
+  {
+    "name": "Toronto",
+    "iso": "CAN",
+    "category": "Alpha",
+    "latitude": 43.6529206,
+    "longitude": -79.3849008
+  },
+  {
+    "name": "Los Angeles",
+    "iso": "USA",
+    "category": "Alpha",
+    "latitude": 34.053717,
+    "longitude": -118.2427265
+  },
+  {
+    "name": "Madrid",
+    "iso": "ESP",
+    "category": "Alpha",
+    "latitude": 40.4167047,
+    "longitude": -3.7035825
+  },
+  {
+    "name": "Mexico City",
+    "iso": "MEX",
+    "category": "Alpha",
+    "latitude": 19.4325301,
+    "longitude": -99.1332102
+  },
+  {
+    "name": "Amsterdam",
+    "iso": "NLD",
+    "category": "Alpha",
+    "latitude": 52.374436,
+    "longitude": 4.897995603
+  },
+  {
+    "name": "Kuala Lumpur",
+    "iso": "MYS",
+    "category": "Alpha",
+    "latitude": 3.1570976,
+    "longitude": 101.7009528
+  },
+  {
+    "name": "Brussels",
+    "iso": "BEL",
+    "category": "Alpha",
+    "latitude": 50.8465565,
+    "longitude": 4.351697
+  },
+  {
+    "name": "Seoul",
+    "iso": "KOR",
+    "category": "Alpha-",
+    "latitude": 37.5666791,
+    "longitude": 126.9782914
+  },
+  {
+    "name": "Johannesburg",
+    "iso": "ZAF",
+    "category": "Alpha-",
+    "latitude": -26.205,
+    "longitude": 28.0497222
+  },
+  {
+    "name": "Buenos Aires",
+    "iso": "ARG",
+    "category": "Alpha-",
+    "latitude": -34.612869,
+    "longitude": -58.4459789
+  },
+  {
+    "name": "Vienna",
+    "iso": "AUT",
+    "category": "Alpha-",
+    "latitude": 48.2083537,
+    "longitude": 16.3725042
+  },
+  {
+    "name": "San Francisco",
+    "iso": "USA",
+    "category": "Alpha-",
+    "latitude": 37.7647993,
+    "longitude": -122.4629897
+  },
+  {
+    "name": "Istanbul",
+    "iso": "TUR",
+    "category": "Alpha-",
+    "latitude": 41.0096334,
+    "longitude": 28.9651646
+  },
+  {
+    "name": "Jakarta",
+    "iso": "IDN",
+    "category": "Alpha-",
+    "latitude": -6.1753941,
+    "longitude": 106.8271826
+  },
+  {
+    "name": "Zürich",
+    "iso": "CHE",
+    "category": "Alpha-",
+    "latitude": 47.3685586,
+    "longitude": 8.5404434
+  },
+  {
+    "name": "Warsaw",
+    "iso": "POL",
+    "category": "Alpha-",
+    "latitude": 52.2319237,
+    "longitude": 21.0067265
+  },
+  {
+    "name": "Washington, D.C.",
+    "iso": "USA",
+    "category": "Alpha-",
+    "latitude": 38.8949549,
+    "longitude": -77.0366456
+  },
+  {
+    "name": "Melbourne",
+    "iso": "AUS",
+    "category": "Alpha-",
+    "latitude": -37.8142175,
+    "longitude": 144.9631608
+  },
+  {
+    "name": "New Delhi",
+    "iso": "IND",
+    "category": "Alpha-",
+    "latitude": 28.6138967,
+    "longitude": 77.2159562
+  },
+  {
+    "name": "Miami",
+    "iso": "USA",
+    "category": "Alpha-",
+    "latitude": 25.7742658,
+    "longitude": -80.1936589
+  },
+  {
+    "name": "Barcelona",
+    "iso": "ESP",
+    "category": "Alpha-",
+    "latitude": 41.3825596,
+    "longitude": 2.1771353
+  },
+  {
+    "name": "Bangkok",
+    "iso": "THA",
+    "category": "Alpha-",
+    "latitude": 13.5859219,
+    "longitude": 100.4160866
+  },
+  {
+    "name": "Boston",
+    "iso": "USA",
+    "category": "Alpha-",
+    "latitude": 42.3604823,
+    "longitude": -71.0595678
+  },
+  {
+    "name": "Dublin",
+    "iso": "IRL",
+    "category": "Alpha-",
+    "latitude": 53.3497645,
+    "longitude": -6.2602732
+  },
+  {
+    "name": "Taipei",
+    "iso": "TWN",
+    "category": "Alpha-",
+    "latitude": 25.0375167,
+    "longitude": 121.5637
+  },
+  {
+    "name": "Munich",
+    "iso": "DEU",
+    "category": "Alpha-",
+    "latitude": 48.1371079,
+    "longitude": 11.5753822
+  },
+  {
+    "name": "Stockholm",
+    "iso": "SWE",
+    "category": "Alpha-",
+    "latitude": 59.3251172,
+    "longitude": 18.0710935
+  },
+  {
+    "name": "Prague",
+    "iso": "CZE",
+    "category": "Alpha-",
+    "latitude": 50.0874401,
+    "longitude": 14.4212556
+  },
+  {
+    "name": "Atlanta",
+    "iso": "USA",
+    "category": "Alpha-",
+    "latitude": 33.7490987,
+    "longitude": -84.3901849
+  },
+  {
+    "name": "Bangalore",
+    "iso": "IND",
+    "category": "Beta+",
+    "latitude": 12.9791198,
+    "longitude": 77.5912997
+  },
+  {
+    "name": "Lisbon",
+    "iso": "PRT",
+    "category": "Beta+",
+    "latitude": 38.7130574,
+    "longitude": -9.1380056
+  },
+  {
+    "name": "Copenhagen",
+    "iso": "DNK",
+    "category": "Beta+",
+    "latitude": 55.6867243,
+    "longitude": 12.5700724
+  },
+  {
+    "name": "Santiago",
+    "iso": "CHL",
+    "category": "Beta+",
+    "latitude": -33.4377968,
+    "longitude": -70.6504451
+  },
+  {
+    "name": "Guangzhou",
+    "iso": "CHN",
+    "category": "Beta+",
+    "latitude": 23.1300037,
+    "longitude": 113.259001
+  },
+  {
+    "name": "Rome",
+    "iso": "ITA",
+    "category": "Beta+",
+    "latitude": 41.8933439,
+    "longitude": 12.4830718
+  },
+  {
+    "name": "Cairo",
+    "iso": "EGY",
+    "category": "Beta+",
+    "latitude": 30.0488185,
+    "longitude": 31.2436663
+  },
+  {
+    "name": "Dallas",
+    "iso": "USA",
+    "category": "Beta+",
+    "latitude": 32.7762719,
+    "longitude": -96.7968558
+  },
+  {
+    "name": "Hamburg",
+    "iso": "DEU",
+    "category": "Beta+",
+    "latitude": 53.5437641,
+    "longitude": 10.0099133
+  },
+  {
+    "name": "Düsseldorf",
+    "iso": "DEU",
+    "category": "Beta+",
+    "latitude": 51.2254018,
+    "longitude": 6.7763137
+  },
+  {
+    "name": "Athens",
+    "iso": "GRC",
+    "category": "Beta+",
+    "latitude": 37.9841493,
+    "longitude": 23.7279843
+  },
+  {
+    "name": "Manila",
+    "iso": "PHL",
+    "category": "Beta+",
+    "latitude": 14.5906216,
+    "longitude": 120.9799696
+  },
+  {
+    "name": "Montreal",
+    "iso": "CAN",
+    "category": "Beta+",
+    "latitude": 45.5115944,
+    "longitude": -73.6051013
+  },
+  {
+    "name": "Philadelphia",
+    "iso": "USA",
+    "category": "Beta+",
+    "latitude": 39.9523993,
+    "longitude": -75.1635898
+  },
+  {
+    "name": "Tel Aviv",
+    "iso": "ISR",
+    "category": "Beta+",
+    "latitude": 32.0804808,
+    "longitude": 34.7805274
+  },
+  {
+    "name": "Lima",
+    "iso": "PER",
+    "category": "Beta+",
+    "latitude": -12,
+    "longitude": -76.833333
+  },
+  {
+    "name": "Budapest",
+    "iso": "HUN",
+    "category": "Beta+",
+    "latitude": 47.4983815,
+    "longitude": 19.0404707
+  },
+  {
+    "name": "Berlin",
+    "iso": "DEU",
+    "category": "Beta+",
+    "latitude": 52.5170365,
+    "longitude": 13.3888599
+  },
+  {
+    "name": "Cape Town",
+    "iso": "ZAF",
+    "category": "Beta+",
+    "latitude": -33.9289049,
+    "longitude": 18.4172485
+  },
+  {
+    "name": "Luxembourg",
+    "iso": "LUX",
+    "category": "Beta+",
+    "latitude": 49.8158683,
+    "longitude": 6.1296751
+  },
+  {
+    "name": "Houston",
+    "iso": "USA",
+    "category": "Beta+",
+    "latitude": 29.7589382,
+    "longitude": -95.3676974
+  },
+  {
+    "name": "Kiev",
+    "iso": "UKR",
+    "category": "Beta+",
+    "latitude": 50.4501071,
+    "longitude": 30.5240501
+  },
+  {
+    "name": "Bucharest",
+    "iso": "ROU",
+    "category": "Beta+",
+    "latitude": 44.4361414,
+    "longitude": 26.1027443
+  },
+  {
+    "name": "Beirut",
+    "iso": "LBN",
+    "category": "Beta+",
+    "latitude": 33.8959203,
+    "longitude": 35.47843
+  },
+  {
+    "name": "Ho Chi Minh City",
+    "iso": "VNM",
+    "category": "Beta",
+    "latitude": 10.7758439,
+    "longitude": 106.7017555
+  },
+  {
+    "name": "Bogotá",
+    "iso": "COL",
+    "category": "Beta",
+    "latitude": 4.5980478,
+    "longitude": -74.0760867
+  },
+  {
+    "name": "Auckland",
+    "iso": "NZL",
+    "category": "Beta",
+    "latitude": -36.8534664,
+    "longitude": 174.7655514
+  },
+  {
+    "name": "Montevideo",
+    "iso": "URY",
+    "category": "Beta",
+    "latitude": -34.9059039,
+    "longitude": -56.1913569
+  },
+  {
+    "name": "Caracas",
+    "iso": "VEN",
+    "category": "Beta",
+    "latitude": 10.506098,
+    "longitude": -66.9146017
+  },
+  {
+    "name": "Riyadh",
+    "iso": "SAU",
+    "category": "Beta",
+    "latitude": 24.6319692,
+    "longitude": 46.7150648
+  },
+  {
+    "name": "Vancouver",
+    "iso": "CAN",
+    "category": "Beta",
+    "latitude": 49.2608944,
+    "longitude": -123.1139383
+  },
+  {
+    "name": "Chennai",
+    "iso": "IND",
+    "category": "Beta",
+    "latitude": 13.0796914,
+    "longitude": 80.2829533
+  },
+  {
+    "name": "Manchester",
+    "iso": "GBR",
+    "category": "Beta",
+    "latitude": 53.4791466,
+    "longitude": -2.2447445
+  },
+  {
+    "name": "Oslo",
+    "iso": "NOR",
+    "category": "Beta",
+    "latitude": 59.9132694,
+    "longitude": 10.7391112
+  },
+  {
+    "name": "Brisbane",
+    "iso": "AUS",
+    "category": "Beta",
+    "latitude": -27.4689682,
+    "longitude": 153.0234991
+  },
+  {
+    "name": "Helsinki",
+    "iso": "FIN",
+    "category": "Beta",
+    "latitude": 60.1666277,
+    "longitude": 24.9435079
+  },
+  {
+    "name": "Karachi",
+    "iso": "PAK",
+    "category": "Beta",
+    "latitude": 24.8667795,
+    "longitude": 67.0311286
+  },
+  {
+    "name": "Doha",
+    "iso": "QAT",
+    "category": "Beta",
+    "latitude": 25.3014957,
+    "longitude": 51.4996674
+  },
+  {
+    "name": "Casablanca",
+    "iso": "MAR",
+    "category": "Beta",
+    "latitude": 33.5939157,
+    "longitude": -7.6176292
+  },
+  {
+    "name": "Stuttgart",
+    "iso": "DEU",
+    "category": "Beta",
+    "latitude": 48.7784485,
+    "longitude": 9.1800132
+  },
+  {
+    "name": "Rio de Janeiro",
+    "iso": "BRA",
+    "category": "Beta",
+    "latitude": -22.9110137,
+    "longitude": -43.2093727
+  },
+  {
+    "name": "Geneva",
+    "iso": "CHE",
+    "category": "Beta",
+    "latitude": 46.2017559,
+    "longitude": 6.1466014
+  },
+  {
+    "name": "Guatemala City",
+    "iso": "GTM",
+    "category": "Beta-",
+    "latitude": 14.6417889,
+    "longitude": -90.5132238
+  },
+  {
+    "name": "Lyon",
+    "iso": "FRA",
+    "category": "Beta-",
+    "latitude": 45.7575286,
+    "longitude": 4.8324803
+  },
+  {
+    "name": "Monterrey",
+    "iso": "MEX",
+    "category": "Beta-",
+    "latitude": 25.6764922,
+    "longitude": -100.3060828
+  },
+  {
+    "name": "Panama City",
+    "iso": "PAN",
+    "category": "Beta-",
+    "latitude": 8.9707433,
+    "longitude": -79.5344539
+  },
+  {
+    "name": "San José",
+    "iso": "CRI",
+    "category": "Beta-",
+    "latitude": 9.9325427,
+    "longitude": -84.0795781
+  },
+  {
+    "name": "Bratislava",
+    "iso": "SVK",
+    "category": "Beta-",
+    "latitude": 48.1359085,
+    "longitude": 17.15974406
+  },
+  {
+    "name": "Minneapolis",
+    "iso": "USA",
+    "category": "Beta-",
+    "latitude": 44.9772995,
+    "longitude": -93.2654692
+  },
+  {
+    "name": "Tunis",
+    "iso": "TUN",
+    "category": "Beta-",
+    "latitude": 33.8439408,
+    "longitude": 9.400138
+  },
+  {
+    "name": "Nairobi",
+    "iso": "KEN",
+    "category": "Beta-",
+    "latitude": -1.2832533,
+    "longitude": 36.8172449
+  },
+  {
+    "name": "Cleveland",
+    "iso": "USA",
+    "category": "Beta-",
+    "latitude": 41.5051613,
+    "longitude": -81.6934446
+  },
+  {
+    "name": "Lagos",
+    "iso": "NGA",
+    "category": "Beta-",
+    "latitude": 6.4550575,
+    "longitude": 3.3941795
+  },
+  {
+    "name": "Abu Dhabi",
+    "iso": "ARE",
+    "category": "Beta-",
+    "latitude": 24.4747961,
+    "longitude": 54.3705762
+  },
+  {
+    "name": "Seattle",
+    "iso": "USA",
+    "category": "Beta-",
+    "latitude": 47.6038321,
+    "longitude": -122.3300624
+  },
+  {
+    "name": "Hanoi",
+    "iso": "VNM",
+    "category": "Beta-",
+    "latitude": 21.0292095,
+    "longitude": 105.85247
+  },
+  {
+    "name": "Sofia",
+    "iso": "BGR",
+    "category": "Beta-",
+    "latitude": 42.6977211,
+    "longitude": 23.3225964
+  },
+  {
+    "name": "Riga",
+    "iso": "LVA",
+    "category": "Beta-",
+    "latitude": 56.9493977,
+    "longitude": 24.1051846
+  },
+  {
+    "name": "Port Louis",
+    "iso": "MUS",
+    "category": "Beta-",
+    "latitude": -20.1637281,
+    "longitude": 57.5045331
+  },
+  {
+    "name": "Detroit",
+    "iso": "USA",
+    "category": "Beta-",
+    "latitude": 42.3486635,
+    "longitude": -83.0567375
+  },
+  {
+    "name": "Calgary",
+    "iso": "CAN",
+    "category": "Beta-",
+    "latitude": 51.0530588,
+    "longitude": -114.0625614
+  },
+  {
+    "name": "Denver",
+    "iso": "USA",
+    "category": "Beta-",
+    "latitude": 39.7391536,
+    "longitude": -104.9847034
+  },
+  {
+    "name": "Perth",
+    "iso": "AUS",
+    "category": "Beta-",
+    "latitude": -31.952712,
+    "longitude": 115.8604796
+  },
+  {
+    "name": "Kolkata",
+    "iso": "IND",
+    "category": "Beta-",
+    "latitude": 22.568746,
+    "longitude": 88.3462999
+  },
+  {
+    "name": "San Diego",
+    "iso": "USA",
+    "category": "Beta-",
+    "latitude": 32.7174209,
+    "longitude": -117.1627714
+  },
+  {
+    "name": "Amman",
+    "iso": "JOR",
+    "category": "Beta-",
+    "latitude": 31.9515694,
+    "longitude": 35.9239625
+  },
+  {
+    "name": "Antwerp",
+    "iso": "BEL",
+    "category": "Beta-",
+    "latitude": 51.2211097,
+    "longitude": 4.3997081
+  },
+  {
+    "name": "Manama",
+    "iso": "BHR",
+    "category": "Beta-",
+    "latitude": 26.2235041,
+    "longitude": 50.5822436
+  },
+  {
+    "name": "Birmingham",
+    "iso": "GBR",
+    "category": "Beta-",
+    "latitude": 52.4813679,
+    "longitude": -1.8980726
+  },
+  {
+    "name": "Nicosia",
+    "iso": "CYP",
+    "category": "Beta-",
+    "latitude": 35.180282,
+    "longitude": 33.37368678
+  },
+  {
+    "name": "Quito",
+    "iso": "ECU",
+    "category": "Beta-",
+    "latitude": -0.155388,
+    "longitude": -78.4862308
+  },
+  {
+    "name": "Rotterdam",
+    "iso": "NLD",
+    "category": "Beta-",
+    "latitude": 51.92779805,
+    "longitude": 4.488623269
+  },
+  {
+    "name": "Belgrade",
+    "iso": "SRB",
+    "category": "Beta-",
+    "latitude": 44.8178787,
+    "longitude": 20.4568089
+  },
+  {
+    "name": "Almaty",
+    "iso": "KAZ",
+    "category": "Beta-",
+    "latitude": 43.21984255,
+    "longitude": 76.91835189
+  },
+  {
+    "name": "Shenzhen",
+    "iso": "CHN",
+    "category": "Beta-",
+    "latitude": 22.5442673,
+    "longitude": 114.0545327
+  },
+  {
+    "name": "Kuwait City",
+    "iso": "KWT",
+    "category": "Beta-",
+    "latitude": 29.3797091,
+    "longitude": 47.9735629
+  },
+  {
+    "name": "Hyderabad",
+    "iso": "IND",
+    "category": "Beta-",
+    "latitude": 17.3616227,
+    "longitude": 78.4747305
+  },
+  {
+    "name": "Edinburgh",
+    "iso": "GBR",
+    "category": "Beta-",
+    "latitude": 55.9483544,
+    "longitude": -3.1931187
+  },
+  {
+    "name": "Zagreb",
+    "iso": "HRV",
+    "category": "Gam­ma+",
+    "latitude": 45.8131545,
+    "longitude": 15.9770298
+  },
+  {
+    "name": "Lahore",
+    "iso": "PAK",
+    "category": "Gam­ma+",
+    "latitude": 31.5621916,
+    "longitude": 74.3228517
+  },
+  {
+    "name": "Saint Petersburg",
+    "iso": "RUS",
+    "category": "Gam­ma+",
+    "latitude": 59.9393657,
+    "longitude": 30.3153628
+  },
+  {
+    "name": "Jeddah",
+    "iso": "SAU",
+    "category": "Gam­ma+",
+    "latitude": 21.5822247,
+    "longitude": 39.1640396
+  },
+  {
+    "name": "Durban",
+    "iso": "ZAF",
+    "category": "Gam­ma+",
+    "latitude": -29.8618254,
+    "longitude": 31.0099095
+  },
+  {
+    "name": "Santo Domingo",
+    "iso": "DOM",
+    "category": "Gam­ma+",
+    "latitude": 18.4801972,
+    "longitude": -69.9421109
+  },
+  {
+    "name": "Baltimore",
+    "iso": "USA",
+    "category": "Gam­ma+",
+    "latitude": 39.2908608,
+    "longitude": -76.6108073
+  },
+  {
+    "name": "Islamabad",
+    "iso": "PAK",
+    "category": "Gam­ma+",
+    "latitude": 33.6945756,
+    "longitude": 73.0643744
+  },
+  {
+    "name": "Guayaquil",
+    "iso": "ECU",
+    "category": "Gam­ma+",
+    "latitude": -2.1704142,
+    "longitude": -79.90502398
+  },
+  {
+    "name": "St. Louis",
+    "iso": "USA",
+    "category": "Gam­ma+",
+    "latitude": 38.6272733,
+    "longitude": -90.1978889
+  },
+  {
+    "name": "San Salvador",
+    "iso": "SLV",
+    "category": "Gam­ma+",
+    "latitude": 13.6977587,
+    "longitude": -89.1930099
+  },
+  {
+    "name": "Cologne",
+    "iso": "DEU",
+    "category": "Gam­ma+",
+    "latitude": 50.9383611,
+    "longitude": 6.9599738
+  },
+  {
+    "name": "Phoenix",
+    "iso": "USA",
+    "category": "Gam­ma+",
+    "latitude": 33.4467681,
+    "longitude": -112.0756724
+  },
+  {
+    "name": "Adelaide",
+    "iso": "AUS",
+    "category": "Gam­ma+",
+    "latitude": -34.9274284,
+    "longitude": 138.599899
+  },
+  {
+    "name": "Bristol",
+    "iso": "GBR",
+    "category": "Gam­ma+",
+    "latitude": 51.453493,
+    "longitude": -2.5973937
+  },
+  {
+    "name": "Charlotte",
+    "iso": "USA",
+    "category": "Gam­ma+",
+    "latitude": 35.2270869,
+    "longitude": -80.8431268
+  },
+  {
+    "name": "George Town",
+    "iso": "CYM",
+    "category": "Gam­ma+",
+    "latitude": 19.2953549,
+    "longitude": -81.3807775
+  },
+  {
+    "name": "Osaka",
+    "iso": "JPN",
+    "category": "Gam­ma+",
+    "latitude": 34.6852955,
+    "longitude": 135.5145684
+  },
+  {
+    "name": "Tampa",
+    "iso": "USA",
+    "category": "Gam­ma+",
+    "latitude": 27.9477595,
+    "longitude": -82.458444
+  },
+  {
+    "name": "Glasgow",
+    "iso": "GBR",
+    "category": "Gam­ma",
+    "latitude": 55.856656,
+    "longitude": -4.2435816
+  },
+  {
+    "name": "San Juan",
+    "iso": "PRI",
+    "category": "Gam­ma",
+    "latitude": 18.38423905,
+    "longitude": -66.05343987
+  },
+  {
+    "name": "Marseille",
+    "iso": "FRA",
+    "category": "Gam­ma",
+    "latitude": 43.2961743,
+    "longitude": 5.3699525
+  },
+  {
+    "name": "Guadalajara",
+    "iso": "MEX",
+    "category": "Gam­ma",
+    "latitude": 20.676143,
+    "longitude": -103.3469982
+  },
+  {
+    "name": "Leeds",
+    "iso": "GBR",
+    "category": "Gam­ma",
+    "latitude": 53.7974185,
+    "longitude": -1.5437941
+  },
+  {
+    "name": "Baku",
+    "iso": "AZE",
+    "category": "Gam­ma",
+    "latitude": 40.3754289,
+    "longitude": 49.8328549
+  },
+  {
+    "name": "Vilnius",
+    "iso": "LTU",
+    "category": "Gam­ma",
+    "latitude": 54.6843135,
+    "longitude": 25.2853984
+  },
+  {
+    "name": "Tallinn",
+    "iso": "EST",
+    "category": "Gam­ma",
+    "latitude": 59.4372155,
+    "longitude": 24.7453688
+  },
+  {
+    "name": "Raleigh",
+    "iso": "USA",
+    "category": "Gam­ma",
+    "latitude": 35.7804015,
+    "longitude": -78.6390779
+  },
+  {
+    "name": "Ankara",
+    "iso": "TUR",
+    "category": "Gam­ma",
+    "latitude": 39.9220794,
+    "longitude": 32.853758
+  },
+  {
+    "name": "Belfast",
+    "iso": "GBR",
+    "category": "Gam­ma",
+    "latitude": 54.5969467,
+    "longitude": -5.9301553
+  },
+  {
+    "name": "San Jose",
+    "iso": "USA",
+    "category": "Gam­ma",
+    "latitude": 37.3361905,
+    "longitude": -121.8905833
+  },
+  {
+    "name": "Colombo",
+    "iso": "LKA",
+    "category": "Gam­ma",
+    "latitude": 6.934287,
+    "longitude": 79.8532704
+  },
+  {
+    "name": "Valencia",
+    "iso": "ESP",
+    "category": "Gam­ma",
+    "latitude": 39.6819591,
+    "longitude": -0.7654406
+  },
+  {
+    "name": "Cincinnati",
+    "iso": "USA",
+    "category": "Gam­ma",
+    "latitude": 39.1014537,
+    "longitude": -84.5124602
+  },
+  {
+    "name": "Milwaukee",
+    "iso": "USA",
+    "category": "Gam­ma",
+    "latitude": 43.0349931,
+    "longitude": -87.922497
+  },
+  {
+    "name": "Muscat",
+    "iso": "OMN",
+    "category": "Gam­ma",
+    "latitude": 23.5997857,
+    "longitude": 58.5451305
+  },
+  {
+    "name": "Ljubljana",
+    "iso": "SVN",
+    "category": "Gam­ma",
+    "latitude": 46.049865,
+    "longitude": 14.5068921
+  },
+  {
+    "name": "Nantes",
+    "iso": "FRA",
+    "category": "Gam­ma-",
+    "latitude": 47.2185155,
+    "longitude": -1.5602349
+  },
+  {
+    "name": "Tianjin",
+    "iso": "CHN",
+    "category": "Gam­ma-",
+    "latitude": 39.1235635,
+    "longitude": 117.1980785
+  },
+  {
+    "name": "Accra",
+    "iso": "GHA",
+    "category": "Gam­ma-",
+    "latitude": 5.5600141,
+    "longitude": -0.2057436
+  },
+  {
+    "name": "Algiers",
+    "iso": "DZA",
+    "category": "Gam­ma-",
+    "latitude": 28.0000272,
+    "longitude": 2.9999825
+  },
+  {
+    "name": "Gothenburg",
+    "iso": "SWE",
+    "category": "Gam­ma-",
+    "latitude": 57.7072326,
+    "longitude": 11.9670171
+  },
+  {
+    "name": "Porto",
+    "iso": "PRT",
+    "category": "Gam­ma-",
+    "latitude": 41.1494512,
+    "longitude": -8.6107884
+  },
+  {
+    "name": "Columbus",
+    "iso": "USA",
+    "category": "Gam­ma-",
+    "latitude": 39.9622601,
+    "longitude": -83.0007065
+  },
+  {
+    "name": "Utrecht",
+    "iso": "NLD",
+    "category": "Gam­ma-",
+    "latitude": 52.08095165,
+    "longitude": 5.127680315
+  },
+  {
+    "name": "Orlando",
+    "iso": "USA",
+    "category": "Gam­ma-",
+    "latitude": 28.5421175,
+    "longitude": -81.3790462
+  },
+  {
+    "name": "Ahmedabad",
+    "iso": "IND",
+    "category": "Gam­ma-",
+    "latitude": 23.0216238,
+    "longitude": 72.5797068
+  },
+  {
+    "name": "Asunción",
+    "iso": "PRY",
+    "category": "Gam­ma-",
+    "latitude": -25.2960638,
+    "longitude": -57.6311446
+  },
+  {
+    "name": "Kansas City",
+    "iso": "USA",
+    "category": "Gam­ma-",
+    "latitude": 39.0844687,
+    "longitude": -94.5630297
+  },
+  {
+    "name": "Seville",
+    "iso": "ESP",
+    "category": "Gam­ma-",
+    "latitude": 37.3886303,
+    "longitude": -5.9953171
+  },
+  {
+    "name": "Turin",
+    "iso": "ITA",
+    "category": "Gam­ma-",
+    "latitude": 45.0709201,
+    "longitude": 7.685972
+  },
+  {
+    "name": "Dar es Salaam",
+    "iso": "TZA",
+    "category": "Gam­ma-",
+    "latitude": -6.8142737,
+    "longitude": 39.2803756
+  },
+  {
+    "name": "Portland",
+    "iso": "USA",
+    "category": "Gam­ma-",
+    "latitude": 45.5202471,
+    "longitude": -122.6741949
+  },
+  {
+    "name": "Kraków",
+    "iso": "POL",
+    "category": "Gam­ma-",
+    "latitude": 50.04691015,
+    "longitude": 19.99706376
+  },
+  {
+    "name": "Managua",
+    "iso": "NIC",
+    "category": "Gam­ma-",
+    "latitude": 12.1461244,
+    "longitude": -86.2737169
+  },
+  {
+    "name": "Pune",
+    "iso": "IND",
+    "category": "Gam­ma-",
+    "latitude": 18.64395815,
+    "longitude": 73.93256819
+  },
+  {
+    "name": "Leipzig",
+    "iso": "DEU",
+    "category": "Gam­ma-",
+    "latitude": 51.3391827,
+    "longitude": 12.3810549
+  },
+  {
+    "name": "Malmö",
+    "iso": "SWE",
+    "category": "Gam­ma-",
+    "latitude": 55.6052931,
+    "longitude": 13.0001566
+  },
+  {
+    "name": "La Paz",
+    "iso": "BOL",
+    "category": "Gam­ma-",
+    "latitude": -16.495647,
+    "longitude": -68.133542
+  },
+  {
+    "name": "Southampton",
+    "iso": "GBR",
+    "category": "High suffi­cien­cy",
+    "latitude": 50.9025349,
+    "longitude": -1.404189
+  },
+  {
+    "name": "Indianapolis",
+    "iso": "USA",
+    "category": "High suffi­cien­cy",
+    "latitude": 39.7683331,
+    "longitude": -86.1583501
+  },
+  {
+    "name": "Porto Alegre",
+    "iso": "BRA",
+    "category": "High suffi­cien­cy",
+    "latitude": -30.0282658,
+    "longitude": -51.228427
+  },
+  {
+    "name": "Strasbourg",
+    "iso": "FRA",
+    "category": "High suffi­cien­cy",
+    "latitude": 48.584614,
+    "longitude": 7.7507127
+  },
+  {
+    "name": "Gaborone",
+    "iso": "BWA",
+    "category": "High suffi­cien­cy",
+    "latitude": -24.6553194,
+    "longitude": 25.9087281
+  },
+  {
+    "name": "Chengdu",
+    "iso": "CHN",
+    "category": "High suffi­cien­cy",
+    "latitude": 30.6765553,
+    "longitude": 104.0612783
+  },
+  {
+    "name": "Richmond",
+    "iso": "USA",
+    "category": "High suffi­cien­cy",
+    "latitude": 37.5385087,
+    "longitude": -77.4342799
+  },
+  {
+    "name": "Pittsburgh",
+    "iso": "USA",
+    "category": "High suffi­cien­cy",
+    "latitude": 40.4416941,
+    "longitude": -79.9900861
+  },
+  {
+    "name": "Tijuana",
+    "iso": "MEX",
+    "category": "High suffi­cien­cy",
+    "latitude": 32.5288195,
+    "longitude": -117.0368346
+  },
+  {
+    "name": "Austin",
+    "iso": "USA",
+    "category": "High suffi­cien­cy",
+    "latitude": 30.2711286,
+    "longitude": -97.7436994
+  },
+  {
+    "name": "Qingdao",
+    "iso": "CHN",
+    "category": "High suffi­cien­cy",
+    "latitude": 36.0895093,
+    "longitude": 120.3497193
+  },
+  {
+    "name": "Nassau",
+    "iso": "BHS",
+    "category": "High suffi­cien­cy",
+    "latitude": 25.0783456,
+    "longitude": -77.338333
+  },
+  {
+    "name": "Tegucigalpa",
+    "iso": "HND",
+    "category": "High suffi­cien­cy",
+    "latitude": 14.0931919,
+    "longitude": -87.201263
+  },
+  {
+    "name": "Lille",
+    "iso": "FRA",
+    "category": "High suffi­cien­cy",
+    "latitude": 50.6305089,
+    "longitude": 3.0706414
+  },
+  {
+    "name": "Curitiba",
+    "iso": "BRA",
+    "category": "High suffi­cien­cy",
+    "latitude": -25.4295985,
+    "longitude": -49.2713192
+  },
+  {
+    "name": "The Hague",
+    "iso": "NLD",
+    "category": "High suffi­cien­cy",
+    "latitude": 52.0799838,
+    "longitude": 4.3113461
+  },
+  {
+    "name": "Hartford",
+    "iso": "USA",
+    "category": "High suffi­cien­cy",
+    "latitude": 41.7634935,
+    "longitude": -72.6830523
+  },
+  {
+    "name": "Wrocław",
+    "iso": "POL",
+    "category": "High suffi­cien­cy",
+    "latitude": 51.12630005,
+    "longitude": 16.97819391
+  },
+  {
+    "name": "Edmonton",
+    "iso": "CAN",
+    "category": "High suffi­cien­cy",
+    "latitude": 53.5343609,
+    "longitude": -113.5065085
+  },
+  {
+    "name": "Lausanne",
+    "iso": "CHE",
+    "category": "High suffi­cien­cy",
+    "latitude": 46.5218269,
+    "longitude": 6.6327025
+  },
+  {
+    "name": "Dhaka",
+    "iso": "BGD",
+    "category": "High suffi­cien­cy",
+    "latitude": 23.7593572,
+    "longitude": 90.3788136
+  },
+  {
+    "name": "Nuremberg",
+    "iso": "DEU",
+    "category": "High suffi­cien­cy",
+    "latitude": 49.4538723,
+    "longitude": 11.0772978
+  },
+  {
+    "name": "Lusaka",
+    "iso": "ZMB",
+    "category": "High suffi­cien­cy",
+    "latitude": -15.4166967,
+    "longitude": 28.2813812
+  },
+  {
+    "name": "Kampala",
+    "iso": "UGA",
+    "category": "High suffi­cien­cy",
+    "latitude": 0.3177137,
+    "longitude": 32.5813539
+  },
+  {
+    "name": "Bilbao",
+    "iso": "ESP",
+    "category": "High suffi­cien­cy",
+    "latitude": 43.2629517,
+    "longitude": -2.9349328
+  },
+  {
+    "name": "Douala",
+    "iso": "CMR",
+    "category": "High suffi­cien­cy",
+    "latitude": 4.05372875,
+    "longitude": 9.664306826
+  },
+  {
+    "name": "Abidjan",
+    "iso": "CIV",
+    "category": "High suffi­cien­cy",
+    "latitude": 5.4091179,
+    "longitude": -4.0422099
+  },
+  {
+    "name": "Salt Lake City",
+    "iso": "USA",
+    "category": "High suffi­cien­cy",
+    "latitude": 40.7670126,
+    "longitude": -111.8904308
+  },
+  {
+    "name": "Hangzhou",
+    "iso": "CHN",
+    "category": "High suffi­cien­cy",
+    "latitude": 30.2756741,
+    "longitude": 120.1504858
+  },
+  {
+    "name": "Poznań",
+    "iso": "POL",
+    "category": "High suffi­cien­cy",
+    "latitude": 52.40039265,
+    "longitude": 16.92021821
+  },
+  {
+    "name": "Wellington",
+    "iso": "NZL",
+    "category": "High suffi­cien­cy",
+    "latitude": -41.2887639,
+    "longitude": 174.7772239
+  },
+  {
+    "name": "Ottawa",
+    "iso": "CAN",
+    "category": "High suffi­cien­cy",
+    "latitude": 45.4210328,
+    "longitude": -75.6900219
+  },
+  {
+    "name": "Dakar",
+    "iso": "SEN",
+    "category": "High suffi­cien­cy",
+    "latitude": 14.6934248,
+    "longitude": -17.4479377
+  },
+  {
+    "name": "Querétaro",
+    "iso": "MEX",
+    "category": "High suffi­cien­cy",
+    "latitude": 20.8542575,
+    "longitude": -99.84756
+  },
+  {
+    "name": "Dresden",
+    "iso": "DEU",
+    "category": "High suffi­cien­cy",
+    "latitude": 51.0493286,
+    "longitude": 13.7381437
+  },
+  {
+    "name": "Newcastle",
+    "iso": "GBR",
+    "category": "High suffi­cien­cy",
+    "latitude": 54.9770924,
+    "longitude": -1.6142059
+  },
+  {
+    "name": "Skopje",
+    "iso": "MKD",
+    "category": "High suffi­cien­cy",
+    "latitude": 41.9962268,
+    "longitude": 21.4317955
+  },
+  {
+    "name": "Nanjing",
+    "iso": "CHN",
+    "category": "High suffi­cien­cy",
+    "latitude": 32.0609158,
+    "longitude": 118.7916065
+  },
+  {
+    "name": "Tirana",
+    "iso": "ALB",
+    "category": "High suffi­cien­cy",
+    "latitude": 41.31588575,
+    "longitude": 19.90091216
+  },
+  {
+    "name": "Chongqing",
+    "iso": "CHN",
+    "category": "High suffi­cien­cy",
+    "latitude": 29.5585712,
+    "longitude": 106.5492822
+  },
+  {
+    "name": "Belo Horizonte",
+    "iso": "BRA",
+    "category": "High suffi­cien­cy",
+    "latitude": -19.9227318,
+    "longitude": -43.9450948
+  },
+  {
+    "name": "Florence",
+    "iso": "ITA",
+    "category": "Suffi­cien­cy",
+    "latitude": 43.7698712,
+    "longitude": 11.2555757
+  },
+  {
+    "name": "Pretoria",
+    "iso": "ZAF",
+    "category": "Suffi­cien­cy",
+    "latitude": -25.725,
+    "longitude": 28.1847222
+  },
+  {
+    "name": "Toulouse",
+    "iso": "FRA",
+    "category": "Suffi­cien­cy",
+    "latitude": 43.6044622,
+    "longitude": 1.4442469
+  },
+  {
+    "name": "Aarhus",
+    "iso": "DNK",
+    "category": "Suffi­cien­cy",
+    "latitude": 56.1496278,
+    "longitude": 10.2134046
+  },
+  {
+    "name": "San Antonio",
+    "iso": "USA",
+    "category": "Suffi­cien­cy",
+    "latitude": 29.4246002,
+    "longitude": -98.4951405
+  },
+  {
+    "name": "Bremen",
+    "iso": "DEU",
+    "category": "Suffi­cien­cy",
+    "latitude": 53.0758196,
+    "longitude": 8.8071646
+  },
+  {
+    "name": "Nashville",
+    "iso": "USA",
+    "category": "Suffi­cien­cy",
+    "latitude": 36.1622296,
+    "longitude": -86.774353
+  },
+  {
+    "name": "Bologna",
+    "iso": "ITA",
+    "category": "Suffi­cien­cy",
+    "latitude": 44.4936714,
+    "longitude": 11.3430347
+  },
+  {
+    "name": "Canberra",
+    "iso": "AUS",
+    "category": "Suffi­cien­cy",
+    "latitude": -35.28120665,
+    "longitude": 149.1287658
+  },
+  {
+    "name": "Nagoya",
+    "iso": "JPN",
+    "category": "Suffi­cien­cy",
+    "latitude": 35.183333,
+    "longitude": 136.9
+  },
+  {
+    "name": "Sacramento",
+    "iso": "USA",
+    "category": "Suffi­cien­cy",
+    "latitude": 38.5815719,
+    "longitude": -121.4943995
+  },
+  {
+    "name": "Providence",
+    "iso": "USA",
+    "category": "Suffi­cien­cy",
+    "latitude": 41.8239891,
+    "longitude": -71.4128343
+  },
+  {
+    "name": "Luanda",
+    "iso": "AGO",
+    "category": "Suffi­cien­cy",
+    "latitude": -8.8271655,
+    "longitude": 13.2436665
+  },
+  {
+    "name": "Dalian",
+    "iso": "CHN",
+    "category": "Suffi­cien­cy",
+    "latitude": 38.920716,
+    "longitude": 121.6388678
+  },
+  {
+    "name": "Liverpool",
+    "iso": "GBR",
+    "category": "Suffi­cien­cy",
+    "latitude": 53.4054719,
+    "longitude": -2.9805393
+  },
+  {
+    "name": "Jacksonville",
+    "iso": "USA",
+    "category": "Suffi­cien­cy",
+    "latitude": 30.3321838,
+    "longitude": -81.655651
+  },
+  {
+    "name": "Puebla",
+    "iso": "MEX",
+    "category": "Suffi­cien­cy",
+    "latitude": 18.833333,
+    "longitude": -98
+  },
+  {
+    "name": "Kaohsiung",
+    "iso": "TWN",
+    "category": "Suffi­cien­cy",
+    "latitude": 22.6203348,
+    "longitude": 120.3120375
+  },
+  {
+    "name": "Minsk",
+    "iso": "BLR",
+    "category": "Suffi­cien­cy",
+    "latitude": 53.902334,
+    "longitude": 27.5618791
+  },
+  {
+    "name": "Linz",
+    "iso": "AUT",
+    "category": "Suffi­cien­cy",
+    "latitude": 48.3059078,
+    "longitude": 14.286198
+  },
+  {
+    "name": "Tbilisi",
+    "iso": "GEO",
+    "category": "Suffi­cien­cy",
+    "latitude": 41.693435,
+    "longitude": 44.8014979
+  },
+  {
+    "name": "Las Vegas",
+    "iso": "USA",
+    "category": "Suffi­cien­cy",
+    "latitude": 36.1662859,
+    "longitude": -115.149225
+  },
+  {
+    "name": "Maputo",
+    "iso": "MOZ",
+    "category": "Suffi­cien­cy",
+    "latitude": -26.0476383,
+    "longitude": 32.79404892
+  },
+  {
+    "name": "Harare",
+    "iso": "ZWE",
+    "category": "Suffi­cien­cy",
+    "latitude": -17.8317726,
+    "longitude": 31.0456859
+  },
+  {
+    "name": "Cardiff",
+    "iso": "GBR",
+    "category": "Suffi­cien­cy",
+    "latitude": 51.4835299,
+    "longitude": -3.1836873
+  },
+  {
+    "name": "Xiamen",
+    "iso": "CHN",
+    "category": "Suffi­cien­cy",
+    "latitude": 24.497442,
+    "longitude": 118.1355644
+  },
+  {
+    "name": "Birmingham",
+    "iso": "USA",
+    "category": "Suffi­cien­cy",
+    "latitude": 33.5206824,
+    "longitude": -86.8024326
+  },
+  {
+    "name": "Leon",
+    "iso": "MEX",
+    "category": "Suffi­cien­cy",
+    "latitude": 21.0973352,
+    "longitude": -101.6476422
+  },
+  {
+    "name": "Port of Spain",
+    "iso": "TTO",
+    "category": "Suffi­cien­cy",
+    "latitude": 10.6572142,
+    "longitude": -61.5180297
+  },
+  {
+    "name": "Penang",
+    "iso": "MYS",
+    "category": "Suffi­cien­cy",
+    "latitude": 5.4065013,
+    "longitude": 100.2559077
+  },
+  {
+    "name": "Memphis",
+    "iso": "USA",
+    "category": "Suffi­cien­cy",
+    "latitude": 35.1490215,
+    "longitude": -90.0516285
+  },
+  {
+    "name": "Aberdeen",
+    "iso": "GBR",
+    "category": "Suffi­cien­cy",
+    "latitude": 57.1452452,
+    "longitude": -2.0913744
+  },
+  {
+    "name": "Abuja",
+    "iso": "NGA",
+    "category": "Suffi­cien­cy",
+    "latitude": 9.0643305,
+    "longitude": 7.4892974
+  },
+  {
+    "name": "Hanover",
+    "iso": "DEU",
+    "category": "Suffi­cien­cy",
+    "latitude": 52.3744779,
+    "longitude": 9.7385532
+  },
+  {
+    "name": "Surabaya",
+    "iso": "IDN",
+    "category": "Suffi­cien­cy",
+    "latitude": -7.2459717,
+    "longitude": 112.7378266
+  },
+  {
+    "name": "Bern",
+    "iso": "CHE",
+    "category": "Suffi­cien­cy",
+    "latitude": 46.9482713,
+    "longitude": 7.4514512
+  },
+  {
+    "name": "Halifax",
+    "iso": "CAN",
+    "category": "Suffi­cien­cy",
+    "latitude": 44.6484246,
+    "longitude": -63.5749724
+  },
+  {
+    "name": "Ciudad Juárez",
+    "iso": "MEX",
+    "category": "Suffi­cien­cy",
+    "latitude": 31.7377426,
+    "longitude": -106.4835192
+  },
+  {
+    "name": "Alexandria",
+    "iso": "EGY",
+    "category": "Suffi­cien­cy",
+    "latitude": 31.1990035,
+    "longitude": 29.8943785
+  },
+  {
+    "name": "Bordeaux",
+    "iso": "FRA",
+    "category": "Suffi­cien­cy",
+    "latitude": 44.841225,
+    "longitude": -0.5800364
+  },
+  {
+    "name": "Phnom Penh",
+    "iso": "KHM",
+    "category": "Suffi­cien­cy",
+    "latitude": 11.5742555,
+    "longitude": 104.8289954
+  },
+  {
+    "name": "Winnipeg",
+    "iso": "CAN",
+    "category": "Suffi­cien­cy",
+    "latitude": 49.8833343,
+    "longitude": -97.1666741
+  },
+  {
+    "name": "Cali",
+    "iso": "COL",
+    "category": "Suffi­cien­cy",
+    "latitude": 3.4319329,
+    "longitude": -76.5113048
+  },
+  {
+    "name": "Greensboro",
+    "iso": "USA",
+    "category": "Suffi­cien­cy",
+    "latitude": 36.0726355,
+    "longitude": -79.7919754
+  },
+  {
+    "name": "Genoa",
+    "iso": "ITA",
+    "category": "Suffi­cien­cy",
+    "latitude": 44.40726,
+    "longitude": 8.9338624
+  },
+  {
+    "name": "Medellín",
+    "iso": "COL",
+    "category": "Suffi­cien­cy",
+    "latitude": 6.2443382,
+    "longitude": -75.573553
+  },
+  {
+    "name": "Santa Cruz",
+    "iso": "ESP",
+    "category": "Suffi­cien­cy",
+    "latitude": 28.4597823,
+    "longitude": -16.2536378
+  },
+  {
+    "name": "Montpellier",
+    "iso": "FRA",
+    "category": "Suffi­cien­cy",
+    "latitude": 43.6112422,
+    "longitude": 3.8767337
+  },
+  {
+    "name": "Córdoba",
+    "iso": "ARG",
+    "category": "Suffi­cien­cy",
+    "latitude": -31.4112785,
+    "longitude": -64.18386532
+  },
+  {
+    "name": "Wuhan",
+    "iso": "CHN",
+    "category": "Suffi­cien­cy",
+    "latitude": 30.5960213,
+    "longitude": 114.2992796
+  },
+  {
+    "name": "Graz",
+    "iso": "AUT",
+    "category": "Suffi­cien­cy",
+    "latitude": 47.0708101,
+    "longitude": 15.4382918
+  },
+  {
+    "name": "Jerusalem",
+    "iso": "ISR",
+    "category": "Suffi­cien­cy",
+    "latitude": 31.7968155,
+    "longitude": 35.21378156
+  },
+  {
+    "name": "New Orleans",
+    "iso": "USA",
+    "category": "Suffi­cien­cy",
+    "latitude": 29.9499323,
+    "longitude": -90.0701156
+  },
+  {
+    "name": "Rochester",
+    "iso": "USA",
+    "category": "Suffi­cien­cy",
+    "latitude": 43.1854754,
+    "longitude": -77.61068605
+  },
+  {
+    "name": "Nice",
+    "iso": "FRA",
+    "category": "Suffi­cien­cy",
+    "latitude": 43.7009358,
+    "longitude": 7.2683912
+  },
+  {
+    "name": "Busan",
+    "iso": "KOR",
+    "category": "Suffi­cien­cy",
+    "latitude": 35.1853168,
+    "longitude": 129.0625899
+  },
+  {
+    "name": "Windhoek",
+    "iso": "NAM",
+    "category": "Suffi­cien­cy",
+    "latitude": -22.5530385,
+    "longitude": 17.05437879
+  },
+  {
+    "name": "Dammam",
+    "iso": "SAU",
+    "category": "Suffi­cien­cy",
+    "latitude": 26.4367824,
+    "longitude": 50.1039991
+  },
+  {
+    "name": "Christchurch",
+    "iso": "NZL",
+    "category": "Suffi­cien­cy",
+    "latitude": -43.530955,
+    "longitude": 172.6366455
+  },
+  {
+    "name": "Recife",
+    "iso": "BRA",
+    "category": "Suffi­cien­cy",
+    "latitude": -8.0581077,
+    "longitude": -34.8979047
+  },
+  {
+    "name": "Tashkent",
+    "iso": "UZB",
+    "category": "Suffi­cien­cy",
+    "latitude": 41.3123363,
+    "longitude": 69.2787079
+  },
+  {
+    "name": "Hamilton",
+    "iso": "BMU",
+    "category": "Suffi­cien­cy",
+    "latitude": 32.3298121,
+    "longitude": -64.70577805
+  },
+  {
+    "name": "Reykjavík",
+    "iso": "ISL",
+    "category": "Suffi­cien­cy",
+    "latitude": 64.145981,
+    "longitude": -21.9422367
+  },
+  {
+    "name": "Naples",
+    "iso": "ITA",
+    "category": "Suffi­cien­cy",
+    "latitude": 40.8441164,
+    "longitude": 14.2422998
+  },
+  {
+    "name": "Tulsa",
+    "iso": "USA",
+    "category": "Suffi­cien­cy",
+    "latitude": 36.1556805,
+    "longitude": -95.9929113
+  },
+  {
+    "name": "Ludwigshafen",
+    "iso": "DEU",
+    "category": "Suffi­cien­cy",
+    "latitude": 49.4792355,
+    "longitude": 8.4391173
+  },
+  {
+    "name": "Kingston",
+    "iso": "JAM",
+    "category": "Suffi­cien­cy",
+    "latitude": 17.9712148,
+    "longitude": -76.7928127
+  },
+  {
+    "name": "Brasília",
+    "iso": "BRA",
+    "category": "Suffi­cien­cy",
+    "latitude": -10.3333333,
+    "longitude": -53.2
+  },
+  {
+    "name": "Johor Bahru",
+    "iso": "MYS",
+    "category": "Suffi­cien­cy",
+    "latitude": 1.4635222,
+    "longitude": 103.7459136
+  },
+  {
+    "name": "Xi'an",
+    "iso": "CHN",
+    "category": "Suffi­cien­cy",
+    "latitude": 34.2191582,
+    "longitude": 109.1101946
+  },
+  {
+    "name": "Macau",
+    "iso": "MAC",
+    "category": "Suffi­cien­cy",
+    "latitude": 22.1919514,
+    "longitude": 113.5381216
+  },
+  {
+    "name": "Fukuoka",
+    "iso": "JPN",
+    "category": "Suffi­cien­cy",
+    "latitude": 33.6251241,
+    "longitude": 130.6180016
+  },
+  {
+    "name": "Sheffield",
+    "iso": "GBR",
+    "category": "Suffi­cien­cy",
+    "latitude": 53.3806626,
+    "longitude": -1.4702278
+  },
+  {
+    "name": "İzmir",
+    "iso": "TUR",
+    "category": "Suffi­cien­cy",
+    "latitude": 38.4153421,
+    "longitude": 27.144474
+  },
+  {
+    "name": "Nottingham",
+    "iso": "GBR",
+    "category": "Suffi­cien­cy",
+    "latitude": 52.9549771,
+    "longitude": -1.1511066
+  },
+  {
+    "name": "Des Moines",
+    "iso": "USA",
+    "category": "Suffi­cien­cy",
+    "latitude": 41.5910641,
+    "longitude": -93.6037149
+  },
+  {
+    "name": "Campinas",
+    "iso": "BRA",
+    "category": "Suffi­cien­cy",
+    "latitude": -22.90556,
+    "longitude": -47.06083
+  },
+  {
+    "name": "Chisinau",
+    "iso": "MDA",
+    "category": "Suffi­cien­cy",
+    "latitude": 47.0122737,
+    "longitude": 28.8605936
+  },
+  {
+    "name": "Haifa",
+    "iso": "ISR",
+    "category": "Suffi­cien­cy",
+    "latitude": 32.8191218,
+    "longitude": 34.9983856
+  },
+  {
+    "name": "Madison",
+    "iso": "USA",
+    "category": "Suffi­cien­cy",
+    "latitude": 43.074761,
+    "longitude": -89.3837612
+  },
+  {
+    "name": "Yerevan",
+    "iso": "ARM",
+    "category": "Suffi­cien­cy",
+    "latitude": 40.1776121,
+    "longitude": 44.5125849
+  },
+  {
+    "name": "Cebu",
+    "iso": "PHL",
+    "category": "Suffi­cien­cy",
+    "latitude": 10.45,
+    "longitude": 123.84
+  },
+  {
+    "name": "Labuan",
+    "iso": "MYS",
+    "category": "Suffi­cien­cy",
+    "latitude": 5.2785201,
+    "longitude": 115.2422574
+  },
+  {
+    "name": "Salvador",
+    "iso": "BRA",
+    "category": "Suffi­cien­cy",
+    "latitude": -12.9822499,
+    "longitude": -38.4812772
+  }
+]
