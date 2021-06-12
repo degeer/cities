@@ -1,0 +1,1460 @@
+[
+  {
+    "name": "Abu Dhabi",
+    "iso": "ARE",
+    "latitude": 24.4747961,
+    "longitude": 54.3705762
+  },
+  {
+    "name": "Abuja",
+    "iso": "NGA",
+    "latitude": 9.0643305,
+    "longitude": 7.4892974
+  },
+  {
+    "name": "Accra",
+    "iso": "GHA",
+    "latitude": 5.5600141,
+    "longitude": -0.2057436
+  },
+  {
+    "name": "Adamstown",
+    "iso": "PCN",
+    "latitude": -25.0666669,
+    "longitude": -130.1002053
+  },
+  {
+    "name": "Addis Abeba",
+    "iso": "ETH",
+    "latitude": 9,
+    "longitude": 38.75
+  },
+  {
+    "name": "Algiers",
+    "iso": "DZA",
+    "latitude": 36.775348,
+    "longitude": 3.060065
+  },
+  {
+    "name": "Alofi",
+    "iso": "NIU",
+    "latitude": -19.0534158,
+    "longitude": -169.9191991
+  },
+  {
+    "name": "Amman",
+    "iso": "JOR",
+    "latitude": 31.9515694,
+    "longitude": 35.9239625
+  },
+  {
+    "name": "Amsterdam",
+    "iso": "NLD",
+    "latitude": 52.3745403,
+    "longitude": 4.8979755
+  },
+  {
+    "name": "Andorra la Vella",
+    "iso": "AND",
+    "latitude": 42.5069391,
+    "longitude": 1.5212467
+  },
+  {
+    "name": "Ankara",
+    "iso": "TUR",
+    "latitude": 39.9215219,
+    "longitude": 32.8537929
+  },
+  {
+    "name": "Antananarivo",
+    "iso": "MDG",
+    "latitude": -18.9100121,
+    "longitude": 47.5255809
+  },
+  {
+    "name": "Apia",
+    "iso": "WSM",
+    "latitude": -13.834369,
+    "longitude": -171.7692792
+  },
+  {
+    "name": "Ashgabat",
+    "iso": "TKM",
+    "latitude": 37.9396678,
+    "longitude": 58.3874263
+  },
+  {
+    "name": "Asmara",
+    "iso": "ERI",
+    "latitude": 15.338997,
+    "longitude": 38.932672
+  },
+  {
+    "name": "Astana",
+    "iso": "KAZ",
+    "latitude": 51.1509206,
+    "longitude": 71.4388595
+  },
+  {
+    "name": "Asunción",
+    "iso": "PRY",
+    "latitude": -25.2959915,
+    "longitude": -57.6311195
+  },
+  {
+    "name": "Athens",
+    "iso": "GRC",
+    "latitude": 37.9841493,
+    "longitude": 23.7279843
+  },
+  {
+    "name": "Avarua",
+    "iso": "COK",
+    "latitude": -21.2074735,
+    "longitude": -159.7708144
+  },
+  {
+    "name": "Baghdad",
+    "iso": "IRQ",
+    "latitude": 33.3024248,
+    "longitude": 44.3787992
+  },
+  {
+    "name": "Baku",
+    "iso": "AZE",
+    "latitude": 40.3754289,
+    "longitude": 49.8328549
+  },
+  {
+    "name": "Bamako",
+    "iso": "MLI",
+    "latitude": 12.649319,
+    "longitude": -8.0003369
+  },
+  {
+    "name": "Bandar Seri Begawan",
+    "iso": "BRN",
+    "latitude": 4.8895453,
+    "longitude": 114.9417574
+  },
+  {
+    "name": "Bangkok",
+    "iso": "THA",
+    "latitude": 13.7538929,
+    "longitude": 100.8160803
+  },
+  {
+    "name": "Bangui",
+    "iso": "CAF",
+    "latitude": 4.3907153,
+    "longitude": 18.5509126
+  },
+  {
+    "name": "Banjul",
+    "iso": "GMB",
+    "latitude": 13.45535,
+    "longitude": -16.5756459
+  },
+  {
+    "name": "Basse-Terre",
+    "iso": "GLP",
+    "latitude": 16.0000778,
+    "longitude": -61.7333372
+  },
+  {
+    "name": "Basseterre",
+    "iso": "KNA",
+    "latitude": 17.2960919,
+    "longitude": -62.7223009
+  },
+  {
+    "name": "Beijing",
+    "iso": "CHN",
+    "latitude": 39.9059631,
+    "longitude": 116.391248
+  },
+  {
+    "name": "Beirut",
+    "iso": "LBN",
+    "latitude": 33.8959203,
+    "longitude": 35.47843
+  },
+  {
+    "name": "Belgrade",
+    "iso": "SRB",
+    "latitude": 44.8178787,
+    "longitude": 20.4568089
+  },
+  {
+    "name": "Belmopan",
+    "iso": "BLZ",
+    "latitude": 17.250283,
+    "longitude": -88.7694262
+  },
+  {
+    "name": "Berlin",
+    "iso": "DEU",
+    "latitude": 52.5170365,
+    "longitude": 13.3888599
+  },
+  {
+    "name": "Bern",
+    "iso": "CHE",
+    "latitude": 46.9482713,
+    "longitude": 7.4514512
+  },
+  {
+    "name": "Bishkek",
+    "iso": "KGZ",
+    "latitude": 42.8767446,
+    "longitude": 74.6069949
+  },
+  {
+    "name": "Bissau",
+    "iso": "GNB",
+    "latitude": 11.861324,
+    "longitude": -15.5830549
+  },
+  {
+    "name": "Bogotá",
+    "iso": "COL",
+    "latitude": 4.5980478,
+    "longitude": -74.0760866
+  },
+  {
+    "name": "Brasília",
+    "iso": "BRA",
+    "latitude": -10.3333332,
+    "longitude": -53.1999999
+  },
+  {
+    "name": "Bratislava",
+    "iso": "SVK",
+    "latitude": 48.1359085,
+    "longitude": 17.1597441
+  },
+  {
+    "name": "Brazzaville",
+    "iso": "COG",
+    "latitude": -4.2694406,
+    "longitude": 15.2712256
+  },
+  {
+    "name": "Bridgetown",
+    "iso": "BRB",
+    "latitude": 13.0977832,
+    "longitude": -59.6184183
+  },
+  {
+    "name": "Brussels",
+    "iso": "BEL",
+    "latitude": 50.8465565,
+    "longitude": 4.351697
+  },
+  {
+    "name": "Bucharest",
+    "iso": "ROU",
+    "latitude": 44.4361414,
+    "longitude": 26.1027202
+  },
+  {
+    "name": "Budapest",
+    "iso": "HUN",
+    "latitude": 47.4983815,
+    "longitude": 19.0404707
+  },
+  {
+    "name": "Buenos Aires",
+    "iso": "ARG",
+    "latitude": -34.6075797,
+    "longitude": -58.4375796
+  },
+  {
+    "name": "Bujumbura",
+    "iso": "BDI",
+    "latitude": -3.3638124,
+    "longitude": 29.3675028
+  },
+  {
+    "name": "Cairo",
+    "iso": "EGY",
+    "latitude": 30.0488185,
+    "longitude": 31.2436663
+  },
+  {
+    "name": "Canberra",
+    "iso": "AUS",
+    "latitude": -35.2819366,
+    "longitude": 149.128894
+  },
+  {
+    "name": "Caracas",
+    "iso": "VEN",
+    "latitude": 10.506098,
+    "longitude": -66.9146016
+  },
+  {
+    "name": "Castries",
+    "iso": "LCA",
+    "latitude": 14.0095966,
+    "longitude": -60.9902358
+  },
+  {
+    "name": "Cayenne",
+    "iso": "GUF",
+    "latitude": 4.9371143,
+    "longitude": -52.3258306
+  },
+  {
+    "name": "Charlotte Amalie",
+    "iso": "VIR",
+    "latitude": 18.341137,
+    "longitude": -64.9327889
+  },
+  {
+    "name": "Chisinau",
+    "iso": "MDA",
+    "latitude": 47.0122737,
+    "longitude": 28.8605936
+  },
+  {
+    "name": "Cockburn Town",
+    "iso": "TCA",
+    "latitude": 21.4607723,
+    "longitude": -71.1399955
+  },
+  {
+    "name": "Conakry",
+    "iso": "GIN",
+    "latitude": 9.5170602,
+    "longitude": -13.6998433
+  },
+  {
+    "name": "Copenhagen",
+    "iso": "DNK",
+    "latitude": 55.6867243,
+    "longitude": 12.5700724
+  },
+  {
+    "name": "Dakar",
+    "iso": "SEN",
+    "latitude": 14.693425,
+    "longitude": -17.4479379
+  },
+  {
+    "name": "Damascus",
+    "iso": "SYR",
+    "latitude": 33.5130695,
+    "longitude": 36.3095814
+  },
+  {
+    "name": "Dhaka",
+    "iso": "BGD",
+    "latitude": 23.7593572,
+    "longitude": 90.3788136
+  },
+  {
+    "name": "Dili",
+    "iso": "TLS",
+    "latitude": -8.5536808,
+    "longitude": 125.5784093
+  },
+  {
+    "name": "Djibouti",
+    "iso": "DJI",
+    "latitude": 11.8567755,
+    "longitude": 42.7577845
+  },
+  {
+    "name": "Dodoma",
+    "iso": "TZA",
+    "latitude": -6.179118,
+    "longitude": 35.7468174
+  },
+  {
+    "name": "Doha",
+    "iso": "QAT",
+    "latitude": 25.3014957,
+    "longitude": 51.4996674
+  },
+  {
+    "name": "Douglas",
+    "iso": "IMN",
+    "latitude": 54.149774,
+    "longitude": -4.477902
+  },
+  {
+    "name": "Dublin",
+    "iso": "IRL",
+    "latitude": 53.3497645,
+    "longitude": -6.2602731
+  },
+  {
+    "name": "Dushanbe",
+    "iso": "TJK",
+    "latitude": 38.5762757,
+    "longitude": 68.786394
+  },
+  {
+    "name": "El Aaiún",
+    "iso": "ESH",
+    "latitude": 27.1536111,
+    "longitude": -13.2033333
+  },
+  {
+    "name": "Flying Fish Cove",
+    "iso": "CXR",
+    "latitude": -10.4228585,
+    "longitude": 105.6785741
+  },
+  {
+    "name": "Fort-de-France",
+    "iso": "MTQ",
+    "latitude": 14.6027962,
+    "longitude": -61.0676723
+  },
+  {
+    "name": "Freetown",
+    "iso": "SLE",
+    "latitude": 8.479004,
+    "longitude": -13.2679499
+  },
+  {
+    "name": "Funafuti",
+    "iso": "TUV",
+    "latitude": -8.5349946,
+    "longitude": 179.1186496
+  },
+  {
+    "name": "Gaborone",
+    "iso": "BWA",
+    "latitude": -24.6553189,
+    "longitude": 25.908728
+  },
+  {
+    "name": "George Town",
+    "iso": "CYM",
+    "latitude": 19.2953549,
+    "longitude": -81.3807775
+  },
+  {
+    "name": "Georgetown",
+    "iso": "GUY",
+    "latitude": 6.8025766,
+    "longitude": -58.1628611
+  },
+  {
+    "name": "Gibraltar",
+    "iso": "GIB",
+    "latitude": 36.1451465,
+    "longitude": -5.3484847
+  },
+  {
+    "name": "Grytviken",
+    "iso": "SGS",
+    "latitude": -54.2810079,
+    "longitude": -36.508842
+  },
+  {
+    "name": "Guatemala City",
+    "iso": "GTM",
+    "latitude": 14.6417889,
+    "longitude": -90.5132238
+  },
+  {
+    "name": "Gustavia",
+    "iso": "BLM",
+    "latitude": 17.8957043,
+    "longitude": -62.8508371
+  },
+  {
+    "name": "Hagåtña",
+    "iso": "GUM",
+    "latitude": 13.4727446,
+    "longitude": 144.7520182
+  },
+  {
+    "name": "Hamilton",
+    "iso": "BMU",
+    "latitude": 32.3298121,
+    "longitude": -64.7057782
+  },
+  {
+    "name": "Hanoi",
+    "iso": "VNM",
+    "latitude": 21.0292095,
+    "longitude": 105.85247
+  },
+  {
+    "name": "Harare",
+    "iso": "ZWE",
+    "latitude": -17.8317729,
+    "longitude": 31.045686
+  },
+  {
+    "name": "Havana",
+    "iso": "CUB",
+    "latitude": 23.1379911,
+    "longitude": -82.3658561
+  },
+  {
+    "name": "Helsinki",
+    "iso": "FIN",
+    "latitude": 60.1674086,
+    "longitude": 24.9425683
+  },
+  {
+    "name": "Hong Kong",
+    "iso": "HKG",
+    "latitude": 22.2793278,
+    "longitude": 114.1628131
+  },
+  {
+    "name": "Honiara",
+    "iso": "SLB",
+    "latitude": -9.431297,
+    "longitude": 159.9552773
+  },
+  {
+    "name": "Islamabad",
+    "iso": "PAK",
+    "latitude": 33.6945756,
+    "longitude": 73.0643744
+  },
+  {
+    "name": "Jakarta",
+    "iso": "IDN",
+    "latitude": -6.1753941,
+    "longitude": 106.8271826
+  },
+  {
+    "name": "Jamestown",
+    "iso": "SHN",
+    "latitude": -15.9277295,
+    "longitude": -5.7160871
+  },
+  {
+    "name": "Jerusalem",
+    "iso": "ISR",
+    "latitude": 31.7891177,
+    "longitude": 35.222973
+  },
+  {
+    "name": "Jerusalem",
+    "iso": "PSE",
+    "latitude": 31.5000837,
+    "longitude": 35.030021
+  },
+  {
+    "name": "Juba",
+    "iso": "SSD",
+    "latitude": 4.8472017,
+    "longitude": 31.5951655
+  },
+  {
+    "name": "Kabul",
+    "iso": "AFG",
+    "latitude": 34.5260131,
+    "longitude": 69.1776476
+  },
+  {
+    "name": "Kampala",
+    "iso": "UGA",
+    "latitude": 0.3177137,
+    "longitude": 32.5813539
+  },
+  {
+    "name": "Kathmandu",
+    "iso": "NPL",
+    "latitude": 27.7087963,
+    "longitude": 85.3202438
+  },
+  {
+    "name": "Khartoum",
+    "iso": "SDN",
+    "latitude": 15.593325,
+    "longitude": 32.53565
+  },
+  {
+    "name": "Kiev",
+    "iso": "UKR",
+    "latitude": 50.4501071,
+    "longitude": 30.5240501
+  },
+  {
+    "name": "Kigali",
+    "iso": "RWA",
+    "latitude": -1.8859596,
+    "longitude": 30.1296751
+  },
+  {
+    "name": "Kingston",
+    "iso": "JAM",
+    "latitude": 17.9712148,
+    "longitude": -76.7928127
+  },
+  {
+    "name": "Kingston",
+    "iso": "NFK",
+    "latitude": -29.0563563,
+    "longitude": 167.9595733
+  },
+  {
+    "name": "Kingstown",
+    "iso": "VCT",
+    "latitude": 13.1561864,
+    "longitude": -61.227962
+  },
+  {
+    "name": "Kinshasa",
+    "iso": "COD",
+    "latitude": -4.3217054,
+    "longitude": 15.3125974
+  },
+  {
+    "name": "Kralendijk",
+    "iso": "BES",
+    "latitude": 12.1471741,
+    "longitude": -68.2740782
+  },
+  {
+    "name": "Kuala Lumpur",
+    "iso": "MYS",
+    "latitude": 2.743782,
+    "longitude": 101.7116119
+  },
+  {
+    "name": "Kuwait City",
+    "iso": "KWT",
+    "latitude": 29.3797091,
+    "longitude": 47.9735629
+  },
+  {
+    "name": "La Paz",
+    "iso": "BOL",
+    "latitude": -16.4957228,
+    "longitude": -68.1335781
+  },
+  {
+    "name": "Libreville",
+    "iso": "GAB",
+    "latitude": 0.390002,
+    "longitude": 9.454001
+  },
+  {
+    "name": "Lilongwe",
+    "iso": "MWI",
+    "latitude": -13.9734559,
+    "longitude": 33.7878122
+  },
+  {
+    "name": "Lima",
+    "iso": "PER",
+    "latitude": -12.0621064,
+    "longitude": -77.0365255
+  },
+  {
+    "name": "Lisbon",
+    "iso": "PRT",
+    "latitude": 38.7077926,
+    "longitude": -9.136506
+  },
+  {
+    "name": "Ljubljana",
+    "iso": "SVN",
+    "latitude": 46.049865,
+    "longitude": 14.5068921
+  },
+  {
+    "name": "Lomé",
+    "iso": "TGO",
+    "latitude": 6.130419,
+    "longitude": 1.215829
+  },
+  {
+    "name": "London",
+    "iso": "GBR",
+    "latitude": 51.5073219,
+    "longitude": -0.1276473
+  },
+  {
+    "name": "Luanda",
+    "iso": "AGO",
+    "latitude": -8.8271655,
+    "longitude": 13.2436665
+  },
+  {
+    "name": "Lusaka",
+    "iso": "ZMB",
+    "latitude": -15.4166966,
+    "longitude": 28.2813812
+  },
+  {
+    "name": "Luxembourg",
+    "iso": "LUX",
+    "latitude": 49.8158683,
+    "longitude": 6.1296751
+  },
+  {
+    "name": "Macao",
+    "iso": "MAC",
+    "latitude": 39.5670954,
+    "longitude": -7.9917165
+  },
+  {
+    "name": "Madrid",
+    "iso": "ESP",
+    "latitude": 40.4167047,
+    "longitude": -3.7035824
+  },
+  {
+    "name": "Majuro",
+    "iso": "MHL",
+    "latitude": 7.0909924,
+    "longitude": 171.3816354
+  },
+  {
+    "name": "Malabo",
+    "iso": "GNQ",
+    "latitude": 3.752828,
+    "longitude": 8.780061
+  },
+  {
+    "name": "Malé",
+    "iso": "MDV",
+    "latitude": 4.1779879,
+    "longitude": 73.5107387
+  },
+  {
+    "name": "Mamoudzou",
+    "iso": "MYT",
+    "latitude": -12.7805855,
+    "longitude": 45.2279908
+  },
+  {
+    "name": "Managua",
+    "iso": "NIC",
+    "latitude": 12.1461244,
+    "longitude": -86.2737169
+  },
+  {
+    "name": "Manama",
+    "iso": "BHR",
+    "latitude": 26.2235041,
+    "longitude": 50.5822436
+  },
+  {
+    "name": "Manila",
+    "iso": "PHL",
+    "latitude": 14.5906216,
+    "longitude": 120.9799696
+  },
+  {
+    "name": "Maputo",
+    "iso": "MOZ",
+    "latitude": -26.0476383,
+    "longitude": 32.7940489
+  },
+  {
+    "name": "Mariehamn",
+    "iso": "ALA",
+    "latitude": 60.102423,
+    "longitude": 19.94126
+  },
+  {
+    "name": "Marigot",
+    "iso": "MAF",
+    "latitude": 18.0668544,
+    "longitude": -63.0848868
+  },
+  {
+    "name": "Maseru",
+    "iso": "LSO",
+    "latitude": -29.3100539,
+    "longitude": 27.478222
+  },
+  {
+    "name": "Mata-Utu",
+    "iso": "WLF",
+    "latitude": -13.2820418,
+    "longitude": -176.1740223
+  },
+  {
+    "name": "Mbabane",
+    "iso": "SWZ",
+    "latitude": -26.3257449,
+    "longitude": 31.144663
+  },
+  {
+    "name": "Melekeok",
+    "iso": "PLW",
+    "latitude": 7.4963398,
+    "longitude": 134.6348755
+  },
+  {
+    "name": "Mexico City",
+    "iso": "MEX",
+    "latitude": 19.4326009,
+    "longitude": -99.1333415
+  },
+  {
+    "name": "Minsk",
+    "iso": "BLR",
+    "latitude": 53.902334,
+    "longitude": 27.5618791
+  },
+  {
+    "name": "Mogadishu",
+    "iso": "SOM",
+    "latitude": 2.042778,
+    "longitude": 45.338564
+  },
+  {
+    "name": "Monaco",
+    "iso": "MCO",
+    "latitude": 43.6307135,
+    "longitude": 7.476161
+  },
+  {
+    "name": "Monrovia",
+    "iso": "LBR",
+    "latitude": 6.328034,
+    "longitude": -10.7977879
+  },
+  {
+    "name": "Montevideo",
+    "iso": "URY",
+    "latitude": -34.9059038,
+    "longitude": -56.1913568
+  },
+  {
+    "name": "Moroni",
+    "iso": "COM",
+    "latitude": -11.6931254,
+    "longitude": 43.2543044
+  },
+  {
+    "name": "Moscow",
+    "iso": "RUS",
+    "latitude": 55.7506828,
+    "longitude": 37.6174976
+  },
+  {
+    "name": "Muscat",
+    "iso": "OMN",
+    "latitude": 23.5997857,
+    "longitude": 58.5451305
+  },
+  {
+    "name": "N'Djamena",
+    "iso": "TCD",
+    "latitude": 12.1191543,
+    "longitude": 15.0502758
+  },
+  {
+    "name": "Nairobi",
+    "iso": "KEN",
+    "latitude": -1.2832532,
+    "longitude": 36.8172449
+  },
+  {
+    "name": "Nassau",
+    "iso": "BHS",
+    "latitude": 25.0783456,
+    "longitude": -77.338333
+  },
+  {
+    "name": "New Delhi",
+    "iso": "IND",
+    "latitude": 28.6138967,
+    "longitude": 77.2159562
+  },
+  {
+    "name": "Niamey",
+    "iso": "NER",
+    "latitude": 13.4998139,
+    "longitude": 2.109486
+  },
+  {
+    "name": "Nicosia",
+    "iso": "CYP",
+    "latitude": 35.1739302,
+    "longitude": 33.364726
+  },
+  {
+    "name": "Nouakchott",
+    "iso": "MRT",
+    "latitude": 18.0792379,
+    "longitude": -15.978007
+  },
+  {
+    "name": "Nouméa",
+    "iso": "NCL",
+    "latitude": -22.2745263,
+    "longitude": 166.442419
+  },
+  {
+    "name": "Nukuʻalofa",
+    "iso": "TON",
+    "latitude": -21.13434,
+    "longitude": -175.2018084
+  },
+  {
+    "name": "Nuuk",
+    "iso": "GRL",
+    "latitude": 64.175029,
+    "longitude": -51.7355385
+  },
+  {
+    "name": "Oranjestad",
+    "iso": "ABW",
+    "latitude": 12.5268736,
+    "longitude": -70.0356844
+  },
+  {
+    "name": "Oslo",
+    "iso": "NOR",
+    "latitude": 59.9132694,
+    "longitude": 10.7391112
+  },
+  {
+    "name": "Ottawa",
+    "iso": "CAN",
+    "latitude": 45.4210328,
+    "longitude": -75.6900218
+  },
+  {
+    "name": "Ouagadougou",
+    "iso": "BFA",
+    "latitude": 12.368148,
+    "longitude": -1.5270849
+  },
+  {
+    "name": "Pago Pago",
+    "iso": "ASM",
+    "latitude": -14.2754785,
+    "longitude": -170.7048297
+  },
+  {
+    "name": "Palikir",
+    "iso": "FSM",
+    "latitude": 6.920744,
+    "longitude": 158.1627143
+  },
+  {
+    "name": "Panama City",
+    "iso": "PAN",
+    "latitude": 8.9714493,
+    "longitude": -79.5341801
+  },
+  {
+    "name": "Papeete",
+    "iso": "PYF",
+    "latitude": -20.8789,
+    "longitude": 55.4481
+  },
+  {
+    "name": "Paramaribo",
+    "iso": "SUR",
+    "latitude": 5.8216198,
+    "longitude": -55.1771973
+  },
+  {
+    "name": "Paris",
+    "iso": "FRA",
+    "latitude": 48.8566101,
+    "longitude": 2.3514992
+  },
+  {
+    "name": "Philipsburg",
+    "iso": "SXM",
+    "latitude": 18.0250713,
+    "longitude": -63.0483072
+  },
+  {
+    "name": "Phnom Penh",
+    "iso": "KHM",
+    "latitude": 11.5742555,
+    "longitude": 104.8289322
+  },
+  {
+    "name": "Plymouth",
+    "iso": "MSR",
+    "latitude": 16.7053047,
+    "longitude": -62.2130446
+  },
+  {
+    "name": "Podgorica",
+    "iso": "MNE",
+    "latitude": 42.4415238,
+    "longitude": 19.2621081
+  },
+  {
+    "name": "Port Louis",
+    "iso": "MUS",
+    "latitude": -20.163728,
+    "longitude": 57.5045331
+  },
+  {
+    "name": "Port Moresby",
+    "iso": "PNG",
+    "latitude": -9.47433,
+    "longitude": 147.1599504
+  },
+  {
+    "name": "Port of Spain",
+    "iso": "TTO",
+    "latitude": 10.6572678,
+    "longitude": -61.5180172
+  },
+  {
+    "name": "Port Vila",
+    "iso": "VUT",
+    "latitude": -17.7414971,
+    "longitude": 168.3150163
+  },
+  {
+    "name": "Port-au-Prince",
+    "iso": "HTI",
+    "latitude": 18.547327,
+    "longitude": -72.3395927
+  },
+  {
+    "name": "Porto-Novo",
+    "iso": "BEN",
+    "latitude": 6.4990718,
+    "longitude": 2.6253361
+  },
+  {
+    "name": "Prague",
+    "iso": "CZE",
+    "latitude": 50.0874654,
+    "longitude": 14.4212503
+  },
+  {
+    "name": "Praia",
+    "iso": "CPV",
+    "latitude": 14.9160169,
+    "longitude": -23.5096131
+  },
+  {
+    "name": "Pretoria",
+    "iso": "ZAF",
+    "latitude": -25.7451739,
+    "longitude": 28.18707
+  },
+  {
+    "name": "Pristina",
+    "iso": "UNK",
+    "latitude": 42.6666667,
+    "longitude": 21.1666667
+  },
+  {
+    "name": "Pyongyang",
+    "iso": "PRK",
+    "latitude": 39.0798493,
+    "longitude": 125.8014573
+  },
+  {
+    "name": "Quito",
+    "iso": "ECU",
+    "latitude": -0.220164,
+    "longitude": -78.5123273
+  },
+  {
+    "name": "Rabat",
+    "iso": "MAR",
+    "latitude": 34.0224046,
+    "longitude": -6.8345426
+  },
+  {
+    "name": "Reykjavík",
+    "iso": "ISL",
+    "latitude": 64.145981,
+    "longitude": -21.9422366
+  },
+  {
+    "name": "Riga",
+    "iso": "LVA",
+    "latitude": 56.9493977,
+    "longitude": 24.1051846
+  },
+  {
+    "name": "Riyadh",
+    "iso": "SAU",
+    "latitude": 24.6319692,
+    "longitude": 46.7150648
+  },
+  {
+    "name": "Road Town",
+    "iso": "VGB",
+    "latitude": 18.4257128,
+    "longitude": -64.6232226
+  },
+  {
+    "name": "Rome",
+    "iso": "ITA",
+    "latitude": 41.8523337,
+    "longitude": 12.6308542
+  },
+  {
+    "name": "Roseau",
+    "iso": "DMA",
+    "latitude": 15.2984622,
+    "longitude": -61.3875048
+  },
+  {
+    "name": "Saint-Denis",
+    "iso": "REU",
+    "latitude": -20.8799888,
+    "longitude": 55.448137
+  },
+  {
+    "name": "Saint-Pierre",
+    "iso": "ATF",
+    "latitude": -17.535,
+    "longitude": -149.5696
+  },
+  {
+    "name": "Saipan",
+    "iso": "MNP",
+    "latitude": 15.1909828,
+    "longitude": 145.7468088
+  },
+  {
+    "name": "San José",
+    "iso": "CRI",
+    "latitude": 9.9325427,
+    "longitude": -84.0795781
+  },
+  {
+    "name": "San Juan",
+    "iso": "PRI",
+    "latitude": 18.3842391,
+    "longitude": -66.0534399
+  },
+  {
+    "name": "San Marino",
+    "iso": "SMR",
+    "latitude": 43.9458623,
+    "longitude": 12.458306
+  },
+  {
+    "name": "San Salvador",
+    "iso": "SLV",
+    "latitude": 13.6977587,
+    "longitude": -89.1930099
+  },
+  {
+    "name": "Sana'a",
+    "iso": "YEM",
+    "latitude": 15.342101,
+    "longitude": 44.2005197
+  },
+  {
+    "name": "Santiago",
+    "iso": "CHL",
+    "latitude": -33.4377967,
+    "longitude": -70.650445
+  },
+  {
+    "name": "Santo Domingo",
+    "iso": "DOM",
+    "latitude": 18.4801972,
+    "longitude": -69.9421109
+  },
+  {
+    "name": "São Tomé",
+    "iso": "STP",
+    "latitude": 0.3389242,
+    "longitude": 6.7313031
+  },
+  {
+    "name": "Sarajevo",
+    "iso": "BIH",
+    "latitude": 43.8519774,
+    "longitude": 18.3866868
+  },
+  {
+    "name": "Seoul",
+    "iso": "KOR",
+    "latitude": 37.5666791,
+    "longitude": 126.9782914
+  },
+  {
+    "name": "Singapore",
+    "iso": "SGP",
+    "latitude": 1.2904527,
+    "longitude": 103.852038
+  },
+  {
+    "name": "Skopje",
+    "iso": "MKD",
+    "latitude": 41.9960924,
+    "longitude": 21.4316495
+  },
+  {
+    "name": "Sofia",
+    "iso": "BGR",
+    "latitude": 42.6977211,
+    "longitude": 23.3225964
+  },
+  {
+    "name": "Sri Jayawardenepura Kotte",
+    "iso": "LKA",
+    "latitude": 6.9031663,
+    "longitude": 79.9091644
+  },
+  {
+    "name": "St. George's",
+    "iso": "GRD",
+    "latitude": 12.0535331,
+    "longitude": -61.7518049
+  },
+  {
+    "name": "St. Helier",
+    "iso": "JEY",
+    "latitude": 49.1856637,
+    "longitude": -2.1102276
+  },
+  {
+    "name": "St. John's",
+    "iso": "ATG",
+    "latitude": 17.1184569,
+    "longitude": -61.8448508
+  },
+  {
+    "name": "St. Peter Port",
+    "iso": "GGY",
+    "latitude": 49.4568142,
+    "longitude": -2.5389978
+  },
+  {
+    "name": "St. Pierre",
+    "iso": "SPM",
+    "latitude": 46.7774872,
+    "longitude": -56.1767705
+  },
+  {
+    "name": "Stanley",
+    "iso": "FLK",
+    "latitude": -51.695046,
+    "longitude": -57.8491569
+  },
+  {
+    "name": "Stockholm",
+    "iso": "SWE",
+    "latitude": 59.3251172,
+    "longitude": 18.0710935
+  },
+  {
+    "name": "Suva",
+    "iso": "FJI",
+    "latitude": -18.1415883,
+    "longitude": 178.4421662
+  },
+  {
+    "name": "Taipei",
+    "iso": "TWN",
+    "latitude": 25.0375167,
+    "longitude": 121.5637
+  },
+  {
+    "name": "Tallinn",
+    "iso": "EST",
+    "latitude": 59.4372155,
+    "longitude": 24.7453688
+  },
+  {
+    "name": "Tarawa",
+    "iso": "KIR",
+    "latitude": 1.4845542,
+    "longitude": 172.9689648
+  },
+  {
+    "name": "Tashkent",
+    "iso": "UZB",
+    "latitude": 41.3123363,
+    "longitude": 69.2787079
+  },
+  {
+    "name": "Tbilisi",
+    "iso": "GEO",
+    "latitude": 41.6935247,
+    "longitude": 44.8015019
+  },
+  {
+    "name": "Tegucigalpa",
+    "iso": "HND",
+    "latitude": 14.0931919,
+    "longitude": -87.201263
+  },
+  {
+    "name": "Tehran",
+    "iso": "IRN",
+    "latitude": 35.7006177,
+    "longitude": 51.401375
+  },
+  {
+    "name": "The Valley",
+    "iso": "AIA",
+    "latitude": 18.2145861,
+    "longitude": -63.0517758
+  },
+  {
+    "name": "Thimphu",
+    "iso": "BTN",
+    "latitude": 27.5583211,
+    "longitude": 89.5524789
+  },
+  {
+    "name": "Tirana",
+    "iso": "ALB",
+    "latitude": 41.3158858,
+    "longitude": 19.9009122
+  },
+  {
+    "name": "Tokyo",
+    "iso": "JPN",
+    "latitude": 34.2255804,
+    "longitude": 139.294774
+  },
+  {
+    "name": "Tórshavn",
+    "iso": "FRO",
+    "latitude": 62.012,
+    "longitude": -6.7679999
+  },
+  {
+    "name": "Tripoli",
+    "iso": "LBY",
+    "latitude": 32.896672,
+    "longitude": 13.1777923
+  },
+  {
+    "name": "Tunis",
+    "iso": "TUN",
+    "latitude": 33.8439408,
+    "longitude": 9.400138
+  },
+  {
+    "name": "Ulan Bator",
+    "iso": "MNG",
+    "latitude": 47.949809,
+    "longitude": 106.966724
+  },
+  {
+    "name": "Vaduz",
+    "iso": "LIE",
+    "latitude": 47.1392862,
+    "longitude": 9.5227962
+  },
+  {
+    "name": "Valletta",
+    "iso": "MLT",
+    "latitude": 35.8989818,
+    "longitude": 14.5136759
+  },
+  {
+    "name": "Vatican City",
+    "iso": "VAT",
+    "latitude": 41.9034912,
+    "longitude": 12.4528349
+  },
+  {
+    "name": "Victoria",
+    "iso": "SYC",
+    "latitude": -4.6231295,
+    "longitude": 55.4523147
+  },
+  {
+    "name": "Vienna",
+    "iso": "AUT",
+    "latitude": 48.2083537,
+    "longitude": 16.3725042
+  },
+  {
+    "name": "Vientiane",
+    "iso": "LAO",
+    "latitude": 17.9640988,
+    "longitude": 102.6133707
+  },
+  {
+    "name": "Vilnius",
+    "iso": "LTU",
+    "latitude": 54.6870458,
+    "longitude": 25.2829111
+  },
+  {
+    "name": "Warsaw",
+    "iso": "POL",
+    "latitude": 52.2319237,
+    "longitude": 21.0067265
+  },
+  {
+    "name": "Washington, D.C.",
+    "iso": "USA",
+    "latitude": 38.8949549,
+    "longitude": -77.0366455
+  },
+  {
+    "name": "Wellington",
+    "iso": "NZL",
+    "latitude": -41.2887638,
+    "longitude": 174.7772239
+  },
+  {
+    "name": "West Island",
+    "iso": "CCK",
+    "latitude": -12.1710717,
+    "longitude": 96.8304359
+  },
+  {
+    "name": "Willemstad",
+    "iso": "CUW",
+    "latitude": 12.1091242,
+    "longitude": -68.9316545
+  },
+  {
+    "name": "Windhoek",
+    "iso": "NAM",
+    "latitude": -22.5530385,
+    "longitude": 17.0543787
+  },
+  {
+    "name": "Yamoussoukro",
+    "iso": "CIV",
+    "latitude": 6.809107,
+    "longitude": -5.2732629
+  },
+  {
+    "name": "Yangon",
+    "iso": "MMR",
+    "latitude": 16.647565,
+    "longitude": 96.1129218
+  },
+  {
+    "name": "Yaoundé",
+    "iso": "CMR",
+    "latitude": 3.8689867,
+    "longitude": 11.5213344
+  },
+  {
+    "name": "Yaren",
+    "iso": "NRU",
+    "latitude": -0.5471013,
+    "longitude": 166.9164002
+  },
+  {
+    "name": "Yerevan",
+    "iso": "ARM",
+    "latitude": 40.1776121,
+    "longitude": 44.5125849
+  },
+  {
+    "name": "Zagreb",
+    "iso": "HRV",
+    "latitude": 45.8131545,
+    "longitude": 15.9770298
+  }
+]
